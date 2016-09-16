@@ -1,0 +1,116 @@
+#Software Engineering Ladder (v.1.0.0-Beta)
+### _Lead Software Engineer (Grade A8)_
+
+##Technical Skills (Dex)
+The code you produce is frequently exemplar code for the benefit of others. You can still roll up your sleeves when needed, and are in touch with how the code base "feels".
+
+You have a breadth of knowledge across a range of languages / technologies in different paradigms (e.g. Object-Oriented / Functional, front-end / back-end) and an ability to rapidly grasp the key concepts in ones which you are unfamiliar with.
+
+You are able to lead others in complex problem solving tasks – teaching them new skills in the process.
+
+You anticipate technical issues, communicate these properly to the relevant stakeholders, and make architectural / design decisions to avoid / resolve them.
+
+You have a deep understanding of related approaches and disciplines such as Agile, DevOps, and Software / Solution Architecture.
+
+You are capable of debugging the hairiest problems which your team encounters.
+
+You have an appreciation for the other key roles on a project (Engagement Manager, Test Lead, Lead Business Analyst, etc.) and are able to manage in their absence
+
+##Soft Skills (T)
+You are able to work within and understand a complex commercial relationship with a client, and make decisions or recommendations which are sympathetic to these needs.
+
+You prioritise and organise your own work and the work of others in order to deliver to agreed deadlines. You recognise when the work requires your direct input or is more appropriately delegated to other team members.
+
+You seek out opposing opinions to your own, and regularly challenge what you know and understand.
+
+You adapt your information and style to your audience and explain difficult issues clearly. You can communicate complex technical solutions to other developers. You are able to explain key solution details and communicate these to both technical and non-technical stakeholders.
+
+You anticipate potential objections to this information and prepare your case accordingly.
+
+You are capable of considering and weighing up a range of (possibly conflicting) opinions, are able to sum up the key points of each of them and make a final recommendation.
+
+You consider ‘the bigger picture’ when making decisions.  This may include - but not be limited to - business, commercial or legal perspectives. 
+
+You are highly aware of the non-functional requirements of the solution, work to ensure your design and development meets these requirements and can evidence this via non-functional tests.
+
+##Getting Code Live (Str)
+You are an expert Agile practitioner and can offer guidance on all aspects of agile development.
+
+You are capable of prioritising multiple interrelated backlogs of stories based on technical risk, business and stakeholder priorities.
+
+You are able to facilitate a team towards an estimate in which you have reasonable confidence for stories given a great deal of uncertainty about the eventual architecture / platform / technology stack.
+
+You are known for drama-free releases.
+
+##Impact (Wis)
+###Solution Ownership
+You consistently deliver large systems involving contributions from one or more teams, on time, to a high level of quality. 
+
+You take ownership of complex streams of work, acting as the the lead for all stages of the software delivery lifecycle. You can shape a solution and provide technical leadership to others.
+
+You set direction at the system level and are consistently and positively influencing decision-making at the programme level.
+
+You consistently reduce the complexity of solutions and components, to get more done with less effort.
+
+You recognise and make trade-offs with respect to the whole solution.
+
+You take the initiative to identify and solve problems, co-ordinating with others on cross-cutting issues.
+
+You scope and shape work for multiple teams into well-defined backlogs, and avoiding monolithic deliverables.  You handle complex, cross-cutting changes to this scope.
+
+You are present whenever architecturally significant components or features go-live for the first time. You work to make all subsequent deployments of these as much of a non-event as possible - always aiming for it to be a single button push.
+
+You identify and proactively tackle technical debt, before it grows into something which will take significant time and cost to resolve.
+
+You document your deliverables in a manner that is understandable by and valuable to other developers / architects / support staff.
+
+###Technical Assessment and Adoption
+You research and propose new technologies and practices, positively impacting the delivery of your entire programme.
+
+You keep up to date with industry developments, actively learning and keeping abreast of the latest technologies. You are able to determine areas in which both your project and the wider team should invest.
+
+You are a recognised expert for multiple technologies or practices. You are sought out for guidance by people outside your project.
+
+You are significantly involved in ensuring the wider team develops as a coherent community of interest and best practice. You are recognised outside of the team as being a leader of this Community.
+
+###Business Awareness
+You fully understand the business value delivered by your software, and the impact your project will have on a customer.
+
+You partner with Business Analysts and client representatives to drive out requirements which take into account the needs of all stakeholders.
+
+You possess empathy for the user of the software being produced and use this to guide your decision making.
+
+###Developing Our Team
+You are a reviewer for many team members, giving them career guidance and advice as well as leading them through the performance management process.
+
+You are recognised as a creator of, and prolific contributor to, initiatives or side-projects which contribute to the development of the team or organisation. For example you may create and contribute to open source software projects or deliver training courses and initiate and guide peer-learning groups.
+
+You coach and mentor our Junior Talent to develop their skills and understanding of how we work.
+
+###Winning New Work
+You identify potential sales opportunities and raise them to the relevant team.
+
+You contribute to bids by proposing solutions and approaches which meet customer needs and follow our combined best practices.
+
+You contribute to written responses and customer presentations as part of the sales process.
+
+##Team Leadership (Fel)
+You lead multiple Scrum teams and may also run the Scrum of Scrums.
+
+You are able to delegate responsibility for the delivery of components.
+
+You deputise for your team lead when they are on leave / unavailable.
+
+You are able to deal with the basic day to day people-management of a team.
+
+##Advocacy and Ambassadorship (Cha)
+Everyone in the team knows you are an expert in one or more technical or procedural areas.  They come to you for advice regarding this.
+
+You provide technical leadership to your team. You are seen as an expert in Software Engineering.
+
+You are beginning to build a reputation as an expert outside of Capgemini. This means you may have presented at a meetup or conference, written a series of popular blog posts, own a strong relationship with a major partner, or are a contributing member of a well-known open source project.
+
+In short, you influence others well beyond your current project.
+
+
+
