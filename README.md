@@ -7,7 +7,21 @@ For us in Capgemini UK, we had the following four User Stories which we wanted t
 * Onboarding – I’ve just started at Capgemini, what is expected of me?
 * Promotion – I want to get promoted. How do I get to the next grade?
 
-We acknowledge that, while we tried to make them as future-proof as possible, these documents will change over time.  That's 
+We acknowledge that, while we tried to make them as future-proof as possible, these documents will change over time.  That's why we're putting them on github.
+
+The current released version of the ladders is v.1.0.0-beta. 
+
+The next scheduled version of the ladders is v.1.0.0 (planned for January 2016)
+
+#Authors
+* [Andrew Harmel-Law](https://github.com/andrewharmellaw)
+* [Tom Phethean](https://github.com/tsphethean)
 
 #Contributors (thanks!)
-@James Gee
+* [Malcolm Young](https://github.com/malcomio)
+* [Rob Horn](https://github.com/robhorn-capgemini)
+* [Clive Hackney](https://github.com/chackney)
+* [Kevin Rudland](https://github.com/krudland1978)
+* Paul Barker
+* [James Gee](https://github.com/geeman201)
+
