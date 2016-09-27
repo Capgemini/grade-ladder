@@ -1,12 +1,11 @@
-#Software Engineering Ladder (v.1.0.0-Beta)
-### _Lead Software Engineer (Grade A8)_
-
+#Software Engineering Ladder
+###_Software Engineer - Grade 8_
 ##Technical Skills (Dex)
 The code you produce is frequently exemplar code for the benefit of others. You can still roll up your sleeves when needed, and are in touch with how the code base "feels".
 
 You have a breadth of knowledge across a range of languages / technologies in different paradigms (e.g. Object-Oriented / Functional, front-end / back-end) and an ability to rapidly grasp the key concepts in ones which you are unfamiliar with.
 
-You are able to lead others in complex problem solving tasks – teaching them new skills in the process.
+You are able to lead others in complex problem solving tasks _ teaching them new skills in the process.
 
 You anticipate technical issues, communicate these properly to the relevant stakeholders, and make architectural / design decisions to avoid / resolve them.
 
@@ -29,7 +28,7 @@ You anticipate potential objections to this information and prepare your case ac
 
 You are capable of considering and weighing up a range of (possibly conflicting) opinions, are able to sum up the key points of each of them and make a final recommendation.
 
-You consider ‘the bigger picture’ when making decisions.  This may include - but not be limited to - business, commercial or legal perspectives. 
+You consider _the bigger picture_ when making decisions. This may include - but not be limited to - business, commercial or legal perspectives.
 
 You are highly aware of the non-functional requirements of the solution, work to ensure your design and development meets these requirements and can evidence this via non-functional tests.
 
@@ -44,7 +43,7 @@ You are known for drama-free releases.
 
 ##Impact (Wis)
 ###Solution Ownership
-You consistently deliver large systems involving contributions from one or more teams, on time, to a high level of quality. 
+You consistently deliver large systems involving contributions from one or more teams, on time, to a high level of quality.
 
 You take ownership of complex streams of work, acting as the the lead for all stages of the software delivery lifecycle. You can shape a solution and provide technical leadership to others.
 
@@ -56,7 +55,7 @@ You recognise and make trade-offs with respect to the whole solution.
 
 You take the initiative to identify and solve problems, co-ordinating with others on cross-cutting issues.
 
-You scope and shape work for multiple teams into well-defined backlogs, and avoiding monolithic deliverables.  You handle complex, cross-cutting changes to this scope.
+You scope and shape work for multiple teams into well-defined backlogs, and avoiding monolithic deliverables. You handle complex, cross-cutting changes to this scope.
 
 You are present whenever architecturally significant components or features go-live for the first time. You work to make all subsequent deployments of these as much of a non-event as possible - always aiming for it to be a single button push.
 
@@ -94,7 +93,7 @@ You contribute to bids by proposing solutions and approaches which meet customer
 
 You contribute to written responses and customer presentations as part of the sales process.
 
-##Team Leadership (Fel)
+##Team Leadership (Tel)
 You lead multiple Scrum teams and may also run the Scrum of Scrums.
 
 You are able to delegate responsibility for the delivery of components.
@@ -104,13 +103,10 @@ You deputise for your team lead when they are on leave / unavailable.
 You are able to deal with the basic day to day people-management of a team.
 
 ##Advocacy and Ambassadorship (Cha)
-Everyone in the team knows you are an expert in one or more technical or procedural areas.  They come to you for advice regarding this.
+Everyone in the team knows you are an expert in one or more technical or procedural areas. They come to you for advice regarding this.
 
 You provide technical leadership to your team. You are seen as an expert in Software Engineering.
 
 You are beginning to build a reputation as an expert outside of Capgemini. This means you may have presented at a meetup or conference, written a series of popular blog posts, own a strong relationship with a major partner, or are a contributing member of a well-known open source project.
 
 In short, you influence others well beyond your current project.
-
-
-

@@ -1,10 +1,9 @@
-#Software Engineering Ladder (v.1.0.0-Beta)
-### _Senior Software Engineer (Grades A6, A7)_
-
+#Software Engineering Ladder
+###_Software Engineer - Grade 7_
 ##Technical Skills (Dex)
 You are a respected expert in your core language / technology and are sought for your opinion and guidance.
 
-You identify and promote shared development approaches, embedding them within your team’s practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.
+You identify and promote shared development approaches, embedding them within your team_s practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.
 
 You care about the quality of the codebase and are continually looking for ways to improve it, as well as the experience of working with it.
 
@@ -19,19 +18,10 @@ You anticipate technical issues at the component level, communicate these clearl
 When encountering technical challenges you are able to find the underlying issues and patterns; and take a new perspective when required, even when these are outside your immediate problem domain.
 
 ##Soft Skills (T)
-You are able to present technical concepts in a way that non-technical stakeholders fully understand.  You are able to effectively communicate complex concepts including systems, but also processes and plans.  Your written communication is clear, concise and uses simple language.
+You are able to present technical concepts in a way that non-technical stakeholders fully understand. You are able to effectively communicate complex concepts including systems, but also processes and plans. Your written communication is clear, concise and uses simple language.
 
+You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you_re quick to challenge any behaviours which damage this.
 
-You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you’re quick to challenge any behaviours which damage this.
-
-####A6
-You actively take responsibility for issues rather than waiting waiting to be allocated to them.
-
-You probe when asking for information, and listen carefully.
-
-You make sound decisions based on evidence, and balancing the needs of stakeholder groups.
-
-####A7
 You seek empirical evidence through proof-of-concepts, tests and external research.
 
 You deliver clear, well-structured and concise arguments to support your opinions. You have the confidence to support these opinions and the flexibility to adapt to new ideas.
@@ -41,12 +31,6 @@ You are persistent in the face of roadblocks - and dispatch them efficiently, pu
 
 You know how to configure more than one shared tool in all the key areas (e.g. version control system, build tool, continuous integration server, wiki, defect/work management tool.)
 
-####A6
-You provide estimates for your work and your teams work, even when there is uncertainty around the requirements.  You include assumptions and rationale to support the estimates.
-
-You are capable, given a prioritised backlog, of planning and tracking the work of a development team.
-
-####A7
 You provide estimates for your work, and your teams work, even when there is a significant degree of uncertainty around requirements or architecture. You include assumptions and rationale to support the estimates.
 
 You are capable of prioritising stories for your team based on technical risk, business priorities, and prevailing stakeholder priorities and you require minimal direction / oversight.
@@ -73,11 +57,7 @@ You are capable of providing LIVE support for your area, including components yo
 
 You document these components in a manner that is useful for other developers and architects.
 
-####A6
-You are present whenever your component(s) go live for the first time, and whenever there are significant subsequent changes.
-
-####A7
-You work with non-technical stakeholders to drive out a solution’s requirements, focussing on balancing the business needs and non-functional aspects as priorities.
+You work with non-technical stakeholders to drive out a solution_s requirements, focussing on balancing the business needs and non-functional aspects as priorities.
 
 You delegate responsibility for the delivery of a feature.
 
@@ -86,11 +66,6 @@ You plan and lead the deployment when your component(s) go live for the first ti
 ###Technical Assessment and Adoption
 You have a good knowledge of current technology industry trends in your chosen domain.
 
-####A6
-You evaluate and select new technologies and tools for the benefit of your project.
-The changes which you initiate are in the scope of delivery improvements but not necessarily visible to your client.  You are aware of and able to gain the necessary organisational support and drive the change to completion.
-
-####A7
 You impact assess, decide on, and deploy these new technologies and tools for the benefit of both your team and the project.
 
 These changes that you initiate are visible to the client, and the client sees their benefit.
@@ -107,7 +82,6 @@ You contribute to internally-open-sourced shared libraries, frameworks and resou
 
 You assist in the ongoing Capgemini recruitment efforts.
 
-####A7
 You participate in giving training courses and initiate and guide peer-learning groups.
 
 ###Winning New Work
@@ -115,19 +89,10 @@ You recognise when colleagues could fulfil a role on your current project and he
 
 When required, you contribute technical and reference examples to the sales process.
 
-####A7
 You are the bid lead for your technical area.
 
-##Team Leadership (Fel)
-####A6
-You lead development teams on single-component pieces of work which form part of a larger delivery.  
-
-####A7
+##Team Leadership (Tel)
 You lead distributed Scrum teams working on multiple core components with tight timescales and complex requirements.
 
 ##Advocacy and Ambassadorship (Cha)
-####A6
-You are effective at managing up.
-
-####A7
 You are the single point of contact for a technology or practice on your project. You are sought out for your technical guidance.
