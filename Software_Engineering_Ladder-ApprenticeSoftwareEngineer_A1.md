@@ -56,5 +56,8 @@ You understand the business-relevance of your feature, and use the applicable bu
 ###Helping Your Colleagues
 You contribute to existing industrialisation efforts which make your day-to-day life easier.
 
-##Team Leadership (Tel)
+##Team Leadership (Fel)
+Nothing at this grade
+
 ##Advocacy and Ambassadorship (Cha)
+Nothing at this grade

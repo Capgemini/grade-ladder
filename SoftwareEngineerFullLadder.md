@@ -453,10 +453,16 @@ You plan your personal development to ensure you have the right skills for the r
 ###_Software Engineer - Grade 3_
 ###_Software Engineer - Grade 4_
 ###_Software Engineer - Grade 5_
-##Team Leadership (Tel)
+##Team Leadership (Fel)
 ###_Apprentice Software Engineer - Grade 1_
+Nothing at this grade
+
 ###_Apprentice Software Engineer - Grade 2_
+Nothing at this grade
+
 ###_Software Engineer - Grade 3_
+Nothing at this grade
+
 ###_Software Engineer - Grade 4_
 You are capable of standing in for your project team lead when they are unavailable.
 
@@ -482,7 +488,11 @@ You are able to deal with the basic day to day people-management of a team.
 ###_Software Engineer - Grade 10_
 ##Advocacy and Ambassadorship (Cha)
 ###_Apprentice Software Engineer - Grade 1_
+Nothing at this grade
+
 ###_Apprentice Software Engineer - Grade 2_
+Nothing at this grade
+
 ###_Software Engineer - Grade 3_
 You share technology news updates, favourite blog posts and conference sessions with the team via email / social media.
 

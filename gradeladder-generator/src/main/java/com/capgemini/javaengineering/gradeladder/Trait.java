@@ -7,7 +7,7 @@ enum Trait {
     T("Soft Skills", "T"),
     STR("Getting Code Live", "Str"),
     WIS("Impact", "Wis"),
-    FEL("Team Leadership","Tel"),
+    FEL("Team Leadership","Fel"),
     CHA("Advocacy and Ambassadorship","Cha");
 
     String getDescription() {
@@ -25,5 +25,9 @@ enum Trait {
         this.description = description;
         this.shortHand = shortHand;
     };
+
+    String getHeader() {
+        return "##" + this.getDescription() + " (" + this.getShortHand() + ")";
+    }
 
 }
