@@ -77,7 +77,7 @@ You recognise when colleagues could fulfil a role on your current project and he
 
 When required, you contribute technical and reference examples to the sales process.
 
-##Team Leadership (Tel)
+##Team Leadership (Fel)
 You lead development teams on single-component pieces of work which form part of a larger delivery.
 
 ##Advocacy and Ambassadorship (Cha)

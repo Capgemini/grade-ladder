@@ -4,5 +4,5 @@
 ##Soft Skills (T)
 ##Getting Code Live (Str)
 ##Impact (Wis)
-##Team Leadership (Tel)
+##Team Leadership (Fel)
 ##Advocacy and Ambassadorship (Cha)

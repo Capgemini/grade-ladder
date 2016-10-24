@@ -55,6 +55,8 @@ You identify areas where common templates, starter-kits, shared-libraries or app
 ###Winning New Work
 You plan your personal development to ensure you have the right skills for the roles you want.
 
-##Team Leadership (Tel)
+##Team Leadership (Fel)
+Nothing at this grade
+
 ##Advocacy and Ambassadorship (Cha)
 You share technology news updates, favourite blog posts and conference sessions with the team via email / social media.

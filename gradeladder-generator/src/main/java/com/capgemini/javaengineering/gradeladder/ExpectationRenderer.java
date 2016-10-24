@@ -21,7 +21,7 @@ abstract class ExpectationRenderer {
     }
 
     void addTraitHeaderToOutput(Trait t) {
-        output.add("##" + t.getDescription() + " (" + t.getShortHand() + ")");
+        output.add(t.getHeader());
     }
 
     void addGradeSubHeadingToOutput(int grade) {

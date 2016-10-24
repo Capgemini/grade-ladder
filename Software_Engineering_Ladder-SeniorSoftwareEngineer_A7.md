@@ -91,7 +91,7 @@ When required, you contribute technical and reference examples to the sales proc
 
 You are the bid lead for your technical area.
 
-##Team Leadership (Tel)
+##Team Leadership (Fel)
 You lead distributed Scrum teams working on multiple core components with tight timescales and complex requirements.
 
 ##Advocacy and Ambassadorship (Cha)

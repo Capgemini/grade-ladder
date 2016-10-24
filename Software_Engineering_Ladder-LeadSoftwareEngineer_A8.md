@@ -93,7 +93,7 @@ You contribute to bids by proposing solutions and approaches which meet customer
 
 You contribute to written responses and customer presentations as part of the sales process.
 
-##Team Leadership (Tel)
+##Team Leadership (Fel)
 You lead multiple Scrum teams and may also run the Scrum of Scrums.
 
 You are able to delegate responsibility for the delivery of components.

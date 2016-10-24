@@ -61,7 +61,7 @@ You may have some Graduate or Apprentice Reviewees, advising them on how to make
 ###Winning New Work
 You plan your personal development to ensure you have the right skills for the roles you want.
 
-##Team Leadership (Tel)
+##Team Leadership (Fel)
 You are capable of standing in for your project team lead when they are unavailable.
 
 ##Advocacy and Ambassadorship (Cha)

@@ -73,7 +73,7 @@ You can identify when code you are working on could be open-sourced (internally 
 ###Winning New Work
 You plan your personal development to ensure you have the right skills for the roles you want.
 
-##Team Leadership (Tel)
+##Team Leadership (Fel)
 You lead small, co-located teams of 3-4 on small-scale and tightly-scoped pieces of work (either isolated or as part of a larger delivery).
 
 ##Advocacy and Ambassadorship (Cha)
