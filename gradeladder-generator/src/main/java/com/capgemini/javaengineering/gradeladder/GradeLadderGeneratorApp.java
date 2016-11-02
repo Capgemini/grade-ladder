@@ -53,7 +53,7 @@ public class GradeLadderGeneratorApp
     }
 
     private static void createSingleConsistencyExpectationsList(Path folder, ExpectationRepository repository) throws IOException {
-        FileWriter writer = new FileWriter(folder.toString()+"/SoftwareEngineerFullLadder.md");
+        FileWriter writer = new FileWriter(folder.toString()+"/SE_Ladder-FullLadder.md");
         ConsistencyExpectationRenderer consistencyExpectationRenderer = new ConsistencyExpectationRenderer(repository);
         writer.write(consistencyExpectationRenderer.render());
         writer.close();
@@ -64,13 +64,18 @@ public class GradeLadderGeneratorApp
         Collection<Grade> grades = Arrays.asList(Grade.values()).stream().sorted((g1, g2) -> Integer.compare(g1.getGrade(), g2.getGrade())).collect(Collectors.toList());
         for (Grade grade : grades) {
 
-            FileWriter writer = new FileWriter(folder.toString()+"/Software_Engineering_Ladder-"+grade.getTitle()+"_A"+grade.getGrade()+".md");
+            FileWriter writer = new FileWriter(createFileName(folder.toString(), grade));
             ByGradeExpectationRenderer byGradeExpectationRenderer = new ByGradeExpectationRenderer(repository, grade.getGrade());
 
             writer.write(byGradeExpectationRenderer.render());
             writer.close();
 
         }
+    }
+
+    static String createFileName(String folderName, Grade grade) {
+        String formatString = "/SE_Ladder-A%02d-%s.md";
+        return folderName + String.format(formatString, grade.getGrade(), grade.getTitle());
     }
 
 }
