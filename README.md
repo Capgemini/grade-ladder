@@ -11,7 +11,7 @@ We acknowledge that, while we tried to make them as future-proof as possible, th
 
 The current released version of the ladders is v.1.0.0-beta. 
 
-The next scheduled version of the ladders is v.1.0.0 (planned for January 2016)
+The next scheduled version of the ladders is v.1.0.0 (planned for January 2017)
 
 #Authors
 * [Andrew Harmel-Law](https://github.com/andrewharmellaw)
