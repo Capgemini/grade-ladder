@@ -377,8 +377,6 @@ You propose new tools (or changes to existing ones) which help you and your coll
 ###_Software Engineer - Grade 5_
 You propose new tools (or changes to existing ones) which help you and your colleagues get your work done more efficiently (e.g. automation tools, testing frameworks, collaboration tools).
 
-You propose new tools (or changes to existing ones) which help you and your colleagues get your work done more efficiently (e.g. automation tools, testing frameworks, collaboration tools).
-
 ###Business Awareness
 ###_Apprentice Software Engineer - Grade 1_
 You understand the business-relevance of your feature, and use the applicable business-terminology when talking about it.

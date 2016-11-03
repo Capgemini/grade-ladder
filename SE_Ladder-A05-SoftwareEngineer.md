@@ -54,8 +54,6 @@ You are capable of working with non-technical stakeholders to fully understand a
 ###Technical Assessment and Adoption
 You propose new tools (or changes to existing ones) which help you and your colleagues get your work done more efficiently (e.g. automation tools, testing frameworks, collaboration tools).
 
-You propose new tools (or changes to existing ones) which help you and your colleagues get your work done more efficiently (e.g. automation tools, testing frameworks, collaboration tools).
-
 ###Business Awareness
 You fully understand the business cases and functional / non-functional (e.g. performance, security, accessibility) requirements supported by your feature(s).
 
