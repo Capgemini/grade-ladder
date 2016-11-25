@@ -1,6 +1,6 @@
-#Software Engineering Ladder
-###_Software Engineer - Grade 7_
-##Technical Skills (Dex)
+# Software Engineering Ladder
+### _Software Engineer - Grade 7_
+## Technical Skills (Dex)
 You are a respected expert in your core language / technology and are sought for your opinion and guidance.
 
 You identify and promote shared development approaches, embedding them within your team_s practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.
@@ -17,7 +17,7 @@ You anticipate technical issues at the component level, communicate these clearl
 
 When encountering technical challenges you are able to find the underlying issues and patterns; and take a new perspective when required, even when these are outside your immediate problem domain.
 
-##Soft Skills (T)
+## Soft Skills (T)
 You are able to present technical concepts in a way that non-technical stakeholders fully understand. You are able to effectively communicate complex concepts including systems, but also processes and plans. Your written communication is clear, concise and uses simple language.
 
 You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you_re quick to challenge any behaviours which damage this.
@@ -26,7 +26,7 @@ You seek empirical evidence through proof-of-concepts, tests and external resear
 
 You deliver clear, well-structured and concise arguments to support your opinions. You have the confidence to support these opinions and the flexibility to adapt to new ideas.
 
-##Getting Code Live (Str)
+## Getting Code Live (Str)
 You are persistent in the face of roadblocks - and dispatch them efficiently, pulling in others when necessary and escalating when required.
 
 You know how to configure more than one shared tool in all the key areas (e.g. version control system, build tool, continuous integration server, wiki, defect/work management tool.)
@@ -41,8 +41,8 @@ You organise others and allocate defects to ensure that a quality outcome is del
 
 You can set up integrated toolchains, train others in their usage, and identify areas where processes could be improved.
 
-##Impact (Wis)
-###Component Ownership
+## Impact (Wis)
+### Component Ownership
 You are the owner of, and expert in, one or more components, delivering them to QA once you believe they are well-baked and bug free.
 
 You are capable of taking components and breaking them into sub-components ready for development and delivery.
@@ -63,19 +63,19 @@ You delegate responsibility for the delivery of a feature.
 
 You plan and lead the deployment when your component(s) go live for the first time, and whenever there are significant subsequent changes.
 
-###Technical Assessment and Adoption
+### Technical Assessment and Adoption
 You have a good knowledge of current technology industry trends in your chosen domain.
 
 You impact assess, decide on, and deploy these new technologies and tools for the benefit of both your team and the project.
 
 These changes that you initiate are visible to the client, and the client sees their benefit.
 
-###Business Awareness
+### Business Awareness
 You understand the business case and functional / non-functional requirements supported by all your components and work to ensure they are met
 
 You communicate key information to the correct stakeholders effectively and in a timely fashion.
 
-###Helping Your Colleagues
+### Helping Your Colleagues
 You have multiple reviewees, giving them career guidance and advice as well as performing end of year review tasks.
 
 You contribute to internally-open-sourced shared libraries, frameworks and resources.
@@ -84,15 +84,15 @@ You assist in the ongoing Capgemini recruitment efforts.
 
 You participate in giving training courses and initiate and guide peer-learning groups.
 
-###Winning New Work
+### Winning New Work
 You recognise when colleagues could fulfil a role on your current project and help to get them resourced.
 
 When required, you contribute technical and reference examples to the sales process.
 
 You are the bid lead for your technical area.
 
-##Team Leadership (Fel)
+## Team Leadership (Fel)
 You lead distributed Scrum teams working on multiple core components with tight timescales and complex requirements.
 
-##Advocacy and Ambassadorship (Cha)
+## Advocacy and Ambassadorship (Cha)
 You are the single point of contact for a technology or practice on your project. You are sought out for your technical guidance.

@@ -27,7 +27,7 @@ enum Trait {
     };
 
     String getHeader() {
-        return "##" + this.getDescription() + " (" + this.getShortHand() + ")";
+        return "## " + this.getDescription() + " (" + this.getShortHand() + ")";
     }
 
 }

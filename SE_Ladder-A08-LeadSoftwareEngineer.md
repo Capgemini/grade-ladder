@@ -1,6 +1,6 @@
-#Software Engineering Ladder
-###_Software Engineer - Grade 8_
-##Technical Skills (Dex)
+# Software Engineering Ladder
+### _Software Engineer - Grade 8_
+## Technical Skills (Dex)
 The code you produce is frequently exemplar code for the benefit of others. You can still roll up your sleeves when needed, and are in touch with how the code base "feels".
 
 You have a breadth of knowledge across a range of languages / technologies in different paradigms (e.g. Object-Oriented / Functional, front-end / back-end) and an ability to rapidly grasp the key concepts in ones which you are unfamiliar with.
@@ -15,7 +15,7 @@ You are capable of debugging the hairiest problems which your team encounters.
 
 You have an appreciation for the other key roles on a project (Engagement Manager, Test Lead, Lead Business Analyst, etc.) and are able to manage in their absence
 
-##Soft Skills (T)
+## Soft Skills (T)
 You are able to work within and understand a complex commercial relationship with a client, and make decisions or recommendations which are sympathetic to these needs.
 
 You prioritise and organise your own work and the work of others in order to deliver to agreed deadlines. You recognise when the work requires your direct input or is more appropriately delegated to other team members.
@@ -32,7 +32,7 @@ You consider _the bigger picture_ when making decisions. This may include - but 
 
 You are highly aware of the non-functional requirements of the solution, work to ensure your design and development meets these requirements and can evidence this via non-functional tests.
 
-##Getting Code Live (Str)
+## Getting Code Live (Str)
 You are an expert Agile practitioner and can offer guidance on all aspects of agile development.
 
 You are capable of prioritising multiple interrelated backlogs of stories based on technical risk, business and stakeholder priorities.
@@ -41,8 +41,8 @@ You are able to facilitate a team towards an estimate in which you have reasonab
 
 You are known for drama-free releases.
 
-##Impact (Wis)
-###Solution Ownership
+## Impact (Wis)
+### Solution Ownership
 You consistently deliver large systems involving contributions from one or more teams, on time, to a high level of quality.
 
 You take ownership of complex streams of work, acting as the the lead for all stages of the software delivery lifecycle. You can shape a solution and provide technical leadership to others.
@@ -63,7 +63,7 @@ You identify and proactively tackle technical debt, before it grows into somethi
 
 You document your deliverables in a manner that is understandable by and valuable to other developers / architects / support staff.
 
-###Technical Assessment and Adoption
+### Technical Assessment and Adoption
 You research and propose new technologies and practices, positively impacting the delivery of your entire programme.
 
 You keep up to date with industry developments, actively learning and keeping abreast of the latest technologies. You are able to determine areas in which both your project and the wider team should invest.
@@ -72,28 +72,28 @@ You are a recognised expert for multiple technologies or practices. You are soug
 
 You are significantly involved in ensuring the wider team develops as a coherent community of interest and best practice. You are recognised outside of the team as being a leader of this Community.
 
-###Business Awareness
+### Business Awareness
 You fully understand the business value delivered by your software, and the impact your project will have on a customer.
 
 You partner with Business Analysts and client representatives to drive out requirements which take into account the needs of all stakeholders.
 
 You possess empathy for the user of the software being produced and use this to guide your decision making.
 
-###Developing Our Team
+### Developing Our Team
 You are a reviewer for many team members, giving them career guidance and advice as well as leading them through the performance management process.
 
 You are recognised as a creator of, and prolific contributor to, initiatives or side-projects which contribute to the development of the team or organisation. For example you may create and contribute to open source software projects or deliver training courses and initiate and guide peer-learning groups.
 
 You coach and mentor our Junior Talent to develop their skills and understanding of how we work.
 
-###Winning New Work
+### Winning New Work
 You identify potential sales opportunities and raise them to the relevant team.
 
 You contribute to bids by proposing solutions and approaches which meet customer needs and follow our combined best practices.
 
 You contribute to written responses and customer presentations as part of the sales process.
 
-##Team Leadership (Fel)
+## Team Leadership (Fel)
 You lead multiple Scrum teams and may also run the Scrum of Scrums.
 
 You are able to delegate responsibility for the delivery of components.
@@ -102,7 +102,7 @@ You deputise for your team lead when they are on leave / unavailable.
 
 You are able to deal with the basic day to day people-management of a team.
 
-##Advocacy and Ambassadorship (Cha)
+## Advocacy and Ambassadorship (Cha)
 Everyone in the team knows you are an expert in one or more technical or procedural areas. They come to you for advice regarding this.
 
 You provide technical leadership to your team. You are seen as an expert in Software Engineering.
