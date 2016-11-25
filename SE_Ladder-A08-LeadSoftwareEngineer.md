@@ -1,6 +1,6 @@
 # Software Engineering Ladder
 ### _Software Engineer - Grade 8_
-##Technical Skills (Dex)
+## Technical Skills (Dex)
 The code you produce is frequently exemplar code for the benefit of others. You can still roll up your sleeves when needed, and are in touch with how the code base "feels".
 
 You have a breadth of knowledge across a range of languages / technologies in different paradigms (e.g. Object-Oriented / Functional, front-end / back-end) and an ability to rapidly grasp the key concepts in ones which you are unfamiliar with.
@@ -15,7 +15,7 @@ You are capable of debugging the hairiest problems which your team encounters.
 
 You have an appreciation for the other key roles on a project (Engagement Manager, Test Lead, Lead Business Analyst, etc.) and are able to manage in their absence
 
-##Soft Skills (T)
+## Soft Skills (T)
 You are able to work within and understand a complex commercial relationship with a client, and make decisions or recommendations which are sympathetic to these needs.
 
 You prioritise and organise your own work and the work of others in order to deliver to agreed deadlines. You recognise when the work requires your direct input or is more appropriately delegated to other team members.
@@ -32,7 +32,7 @@ You consider _the bigger picture_ when making decisions. This may include - but 
 
 You are highly aware of the non-functional requirements of the solution, work to ensure your design and development meets these requirements and can evidence this via non-functional tests.
 
-##Getting Code Live (Str)
+## Getting Code Live (Str)
 You are an expert Agile practitioner and can offer guidance on all aspects of agile development.
 
 You are capable of prioritising multiple interrelated backlogs of stories based on technical risk, business and stakeholder priorities.
@@ -41,7 +41,7 @@ You are able to facilitate a team towards an estimate in which you have reasonab
 
 You are known for drama-free releases.
 
-##Impact (Wis)
+## Impact (Wis)
 ### Solution Ownership
 You consistently deliver large systems involving contributions from one or more teams, on time, to a high level of quality.
 
@@ -93,7 +93,7 @@ You contribute to bids by proposing solutions and approaches which meet customer
 
 You contribute to written responses and customer presentations as part of the sales process.
 
-##Team Leadership (Fel)
+## Team Leadership (Fel)
 You lead multiple Scrum teams and may also run the Scrum of Scrums.
 
 You are able to delegate responsibility for the delivery of components.
@@ -102,7 +102,7 @@ You deputise for your team lead when they are on leave / unavailable.
 
 You are able to deal with the basic day to day people-management of a team.
 
-##Advocacy and Ambassadorship (Cha)
+## Advocacy and Ambassadorship (Cha)
 Everyone in the team knows you are an expert in one or more technical or procedural areas. They come to you for advice regarding this.
 
 You provide technical leadership to your team. You are seen as an expert in Software Engineering.

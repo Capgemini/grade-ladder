@@ -1,5 +1,5 @@
 # Software Engineering Ladder
-##Technical Skills (Dex)
+## Technical Skills (Dex)
 ### _Apprentice Software Engineer - Grade 1_
 You write production-ready code either by pairing with a peer, or when provided with guidance on the best approach.
 
@@ -118,7 +118,7 @@ You have an appreciation for the other key roles on a project (Engagement Manage
 
 ### _Software Engineer - Grade 9_
 ### _Software Engineer - Grade 10_
-##Soft Skills (T)
+## Soft Skills (T)
 ### _Apprentice Software Engineer - Grade 1_
 You rightly depend on others for instruction & direction.
 
@@ -237,7 +237,7 @@ You are highly aware of the non-functional requirements of the solution, work to
 
 ### _Software Engineer - Grade 9_
 ### _Software Engineer - Grade 10_
-##Getting Code Live (Str)
+## Getting Code Live (Str)
 ### _Apprentice Software Engineer - Grade 1_
 You create correct and clean artefacts, following project-agreed best practices, and meeting the definition of
 
@@ -324,7 +324,7 @@ You are known for drama-free releases.
 
 ### _Software Engineer - Grade 9_
 ### _Software Engineer - Grade 10_
-##Impact (Wis)
+## Impact (Wis)
 ### Feature Ownership
 ### _Apprentice Software Engineer - Grade 1_
 You are the owner of a single feature.
@@ -451,7 +451,7 @@ You plan your personal development to ensure you have the right skills for the r
 ### _Software Engineer - Grade 3_
 ### _Software Engineer - Grade 4_
 ### _Software Engineer - Grade 5_
-##Team Leadership (Fel)
+## Team Leadership (Fel)
 ### _Apprentice Software Engineer - Grade 1_
 Nothing at this grade
 
@@ -484,7 +484,7 @@ You are able to deal with the basic day to day people-management of a team.
 
 ### _Software Engineer - Grade 9_
 ### _Software Engineer - Grade 10_
-##Advocacy and Ambassadorship (Cha)
+## Advocacy and Ambassadorship (Cha)
 ### _Apprentice Software Engineer - Grade 1_
 Nothing at this grade
 

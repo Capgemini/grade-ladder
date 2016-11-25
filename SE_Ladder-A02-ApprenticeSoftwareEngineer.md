@@ -1,6 +1,6 @@
 # Software Engineering Ladder
 ### _Apprentice Software Engineer - Grade 2_
-##Technical Skills (Dex)
+## Technical Skills (Dex)
 You write production-ready code either by pairing with a peer, or when provided with guidance on the best approach.
 
 You learn technical things quickly.
@@ -9,7 +9,7 @@ You are beginning to focus on gaining expertise in 1-2 specific areas.
 
 You participate in the design of features (with close guidance).
 
-##Soft Skills (T)
+## Soft Skills (T)
 You rightly depend on others for instruction & direction.
 
 You are capable of taking well-defined tasks / sub tasks and completing them.
@@ -30,7 +30,7 @@ You are comfortable working on a client site, and you integrate into their envir
 
 You rarely make the same mistake twice.
 
-##Getting Code Live (Str)
+## Getting Code Live (Str)
 You create correct and clean artefacts, following project-agreed best practices, and meeting the definition of
 
 You know the core XP practices - TDD, Pair Programming and CI - and can apply them with increasing effectiveness.
@@ -43,7 +43,7 @@ You are also able to configure local installations of these tools so you can use
 
 You have a more advanced knowledge of your tools, being able to use features such as keyboard shortcuts etc.
 
-##Impact (Wis)
+## Impact (Wis)
 ### Feature Ownership
 You are the owner of a single feature.
 
@@ -60,8 +60,8 @@ You understand the business-relevance of your feature, and use the applicable bu
 ### Helping Your Colleagues
 You contribute to existing industrialisation efforts which make your day-to-day life easier.
 
-##Team Leadership (Fel)
+## Team Leadership (Fel)
 Nothing at this grade
 
-##Advocacy and Ambassadorship (Cha)
+## Advocacy and Ambassadorship (Cha)
 Nothing at this grade
