@@ -1,5 +1,5 @@
-#Software Engineering Ladder
-###_Software Engineer - Grade 3_
+# Software Engineering Ladder
+### _Software Engineer - Grade 3_
 ##Technical Skills (Dex)
 You are developing a deep expertise in a core language and / or technology, and gaining awareness of others.
 
@@ -36,23 +36,23 @@ You can install and configure a new personal development environment for yoursel
 You are developing techniques to improve quality.
 
 ##Impact (Wis)
-###Feature Ownership
+### Feature Ownership
 You are the expert in one or more features on your primary project.
 
 You are present when any of them goes live for the first time, and whenever there are significant subsequent changes. You consider how your feature will be supported after go-live and collaborate with other teams to ensure their smooth transition to live service.
 
 You are capable of working with non-technical stakeholders to fully understand a project's requirements.
 
-###Technical Assessment and Adoption
+### Technical Assessment and Adoption
 You propose new tools (or changes to existing ones) which help you and your colleagues get your work done more efficiently (e.g. automation tools, testing frameworks, collaboration tools).
 
-###Business Awareness
+### Business Awareness
 You fully understand the business cases and functional / non-functional (e.g. performance, security, accessibility) requirements supported by your feature(s).
 
-###Helping Your Colleagues
+### Helping Your Colleagues
 You identify areas where common templates, starter-kits, shared-libraries or approaches could deliver efficiencies and improve quality, and you contribute to their development. This may result in blog posts, (internal) open source projects, lunchtime brown-bag sessions, etc.
 
-###Winning New Work
+### Winning New Work
 You plan your personal development to ensure you have the right skills for the roles you want.
 
 ##Team Leadership (Fel)

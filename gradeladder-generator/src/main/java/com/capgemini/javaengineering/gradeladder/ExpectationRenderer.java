@@ -17,7 +17,7 @@ abstract class ExpectationRenderer {
     }
 
     void addHeaderToOutput() {
-        output.add("#Software Engineering Ladder");
+        output.add("# Software Engineering Ladder");
     }
 
     void addTraitHeaderToOutput(Trait t) {
@@ -26,13 +26,13 @@ abstract class ExpectationRenderer {
 
     void addGradeSubHeadingToOutput(int grade) {
         if (grade < 3 ) {
-            output.add("###_Apprentice Software Engineer - Grade " + grade + "_");
+            output.add("### _Apprentice Software Engineer - Grade " + grade + "_");
         } else {
-            output.add("###_Software Engineer - Grade " + grade + "_");
+            output.add("### _Software Engineer - Grade " + grade + "_");
         }
     }
 
     void addSubTraitSubHeadingToOutput(String subTrait) {
-        output.add("###" + subTrait);
+        output.add("### " + subTrait);
     }
 }

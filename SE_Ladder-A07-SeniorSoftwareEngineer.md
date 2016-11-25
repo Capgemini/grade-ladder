@@ -1,5 +1,5 @@
-#Software Engineering Ladder
-###_Software Engineer - Grade 7_
+# Software Engineering Ladder
+### _Software Engineer - Grade 7_
 ##Technical Skills (Dex)
 You are a respected expert in your core language / technology and are sought for your opinion and guidance.
 
@@ -42,7 +42,7 @@ You organise others and allocate defects to ensure that a quality outcome is del
 You can set up integrated toolchains, train others in their usage, and identify areas where processes could be improved.
 
 ##Impact (Wis)
-###Component Ownership
+### Component Ownership
 You are the owner of, and expert in, one or more components, delivering them to QA once you believe they are well-baked and bug free.
 
 You are capable of taking components and breaking them into sub-components ready for development and delivery.
@@ -63,19 +63,19 @@ You delegate responsibility for the delivery of a feature.
 
 You plan and lead the deployment when your component(s) go live for the first time, and whenever there are significant subsequent changes.
 
-###Technical Assessment and Adoption
+### Technical Assessment and Adoption
 You have a good knowledge of current technology industry trends in your chosen domain.
 
 You impact assess, decide on, and deploy these new technologies and tools for the benefit of both your team and the project.
 
 These changes that you initiate are visible to the client, and the client sees their benefit.
 
-###Business Awareness
+### Business Awareness
 You understand the business case and functional / non-functional requirements supported by all your components and work to ensure they are met
 
 You communicate key information to the correct stakeholders effectively and in a timely fashion.
 
-###Helping Your Colleagues
+### Helping Your Colleagues
 You have multiple reviewees, giving them career guidance and advice as well as performing end of year review tasks.
 
 You contribute to internally-open-sourced shared libraries, frameworks and resources.
@@ -84,7 +84,7 @@ You assist in the ongoing Capgemini recruitment efforts.
 
 You participate in giving training courses and initiate and guide peer-learning groups.
 
-###Winning New Work
+### Winning New Work
 You recognise when colleagues could fulfil a role on your current project and help to get them resourced.
 
 When required, you contribute technical and reference examples to the sales process.

@@ -1,5 +1,5 @@
-#Software Engineering Ladder
-###_Software Engineer - Grade 8_
+# Software Engineering Ladder
+### _Software Engineer - Grade 8_
 ##Technical Skills (Dex)
 The code you produce is frequently exemplar code for the benefit of others. You can still roll up your sleeves when needed, and are in touch with how the code base "feels".
 
@@ -42,7 +42,7 @@ You are able to facilitate a team towards an estimate in which you have reasonab
 You are known for drama-free releases.
 
 ##Impact (Wis)
-###Solution Ownership
+### Solution Ownership
 You consistently deliver large systems involving contributions from one or more teams, on time, to a high level of quality.
 
 You take ownership of complex streams of work, acting as the the lead for all stages of the software delivery lifecycle. You can shape a solution and provide technical leadership to others.
@@ -63,7 +63,7 @@ You identify and proactively tackle technical debt, before it grows into somethi
 
 You document your deliverables in a manner that is understandable by and valuable to other developers / architects / support staff.
 
-###Technical Assessment and Adoption
+### Technical Assessment and Adoption
 You research and propose new technologies and practices, positively impacting the delivery of your entire programme.
 
 You keep up to date with industry developments, actively learning and keeping abreast of the latest technologies. You are able to determine areas in which both your project and the wider team should invest.
@@ -72,21 +72,21 @@ You are a recognised expert for multiple technologies or practices. You are soug
 
 You are significantly involved in ensuring the wider team develops as a coherent community of interest and best practice. You are recognised outside of the team as being a leader of this Community.
 
-###Business Awareness
+### Business Awareness
 You fully understand the business value delivered by your software, and the impact your project will have on a customer.
 
 You partner with Business Analysts and client representatives to drive out requirements which take into account the needs of all stakeholders.
 
 You possess empathy for the user of the software being produced and use this to guide your decision making.
 
-###Developing Our Team
+### Developing Our Team
 You are a reviewer for many team members, giving them career guidance and advice as well as leading them through the performance management process.
 
 You are recognised as a creator of, and prolific contributor to, initiatives or side-projects which contribute to the development of the team or organisation. For example you may create and contribute to open source software projects or deliver training courses and initiate and guide peer-learning groups.
 
 You coach and mentor our Junior Talent to develop their skills and understanding of how we work.
 
-###Winning New Work
+### Winning New Work
 You identify potential sales opportunities and raise them to the relevant team.
 
 You contribute to bids by proposing solutions and approaches which meet customer needs and follow our combined best practices.

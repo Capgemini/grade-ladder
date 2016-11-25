@@ -1,5 +1,5 @@
-#Software Engineering Ladder
-###_Software Engineer - Grade 9_
+# Software Engineering Ladder
+### _Software Engineer - Grade 9_
 ##Technical Skills (Dex)
 ##Soft Skills (T)
 ##Getting Code Live (Str)

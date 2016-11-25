@@ -1,5 +1,5 @@
-#Software Engineering Ladder
-###_Apprentice Software Engineer - Grade 1_
+# Software Engineering Ladder
+### _Apprentice Software Engineer - Grade 1_
 ##Technical Skills (Dex)
 You write production-ready code either by pairing with a peer, or when provided with guidance on the best approach.
 
@@ -40,20 +40,20 @@ You demonstrate productivity skills by learning an SCM tool, an IDE, a build sys
 You are also able to configure local installations of these tools so you can use them efficiently.
 
 ##Impact (Wis)
-###Feature Ownership
+### Feature Ownership
 You are the owner of a single feature.
 
 You are present when this feature goes live for the first time, and whenever there are significant subsequent changes.
 
-###Technical Assessment and Adoption
+### Technical Assessment and Adoption
 You effectively use the standard tooling provided by the project.
 
 You select additional personal tools which help you get your tasks done efficiently.
 
-###Business Awareness
+### Business Awareness
 You understand the business-relevance of your feature, and use the applicable business-terminology when talking about it.
 
-###Helping Your Colleagues
+### Helping Your Colleagues
 You contribute to existing industrialisation efforts which make your day-to-day life easier.
 
 ##Team Leadership (Fel)
