@@ -1,0 +1,4 @@
+rootProject.name = 'grade-ladder'
+
+//composite build
+includeBuild 'gradeladder-generator'

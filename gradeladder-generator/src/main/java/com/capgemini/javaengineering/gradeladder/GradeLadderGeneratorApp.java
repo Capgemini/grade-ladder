@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.io.File;
 import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.Collection;
@@ -32,6 +33,8 @@ public class GradeLadderGeneratorApp
 
             createSingleConsistencyExpectationsList(folder, repository);
 
+            createGradeExpectationsBook(folder, repository);
+
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -53,7 +56,7 @@ public class GradeLadderGeneratorApp
     }
 
     private static void createSingleConsistencyExpectationsList(Path folder, ExpectationRepository repository) throws IOException {
-        FileWriter writer = new FileWriter(folder.toString()+"/SE_Ladder-FullLadder.md");
+        FileWriter writer = new FileWriter(folder.toString()+"/flat/SE_Ladder-FullLadder.md");
         ConsistencyExpectationRenderer consistencyExpectationRenderer = new ConsistencyExpectationRenderer(repository);
         writer.write(consistencyExpectationRenderer.render());
         writer.close();
@@ -73,8 +76,37 @@ public class GradeLadderGeneratorApp
         }
     }
 
+    private static void createGradeExpectationsBook(Path folder, ExpectationRepository repository) throws IOException {
+        // Each Grade is a chapter
+        Collection<Grade> grades = Arrays.asList(Grade.values()).stream().sorted((g1, g2) -> Integer.compare(g1.getGrade(), g2.getGrade())).collect(Collectors.toList());
+        for (Grade grade : grades) {
+
+            String gradeDirStr = createBookDir(folder.toString(), grade);
+            File gradeDir = new File(gradeDirStr);
+            gradeDir.mkdirs();
+
+            FileWriter readmeWriter = new FileWriter(createBookDir(folder.toString(), grade) + "/README.md");
+            ByGradeExpectationRenderer byGradeExpectationRenderer = new ByGradeExpectationRenderer(repository, grade.getGrade());
+            readmeWriter.write(byGradeExpectationRenderer.render());
+            readmeWriter.close();
+
+        }
+
+        // Write Summary
+        BookSummaryRenderer bookSummaryRenderer = new BookSummaryRenderer(repository);
+        FileWriter summaryWriter = new FileWriter(folder.toString() + "/SUMMARY.md");
+        summaryWriter.write(bookSummaryRenderer.render());
+        summaryWriter.close();
+    }
+
     static String createFileName(String folderName, Grade grade) {
-        String formatString = "/SE_Ladder-A%02d-%s.md";
+        String formatString = "/flat/SE_Ladder-A%02d-%s.md";
+        return folderName  + String.format(formatString, grade.getGrade(), grade.getTitle());
+    }
+
+
+    static String createBookDir(String folderName, Grade grade) {
+        String formatString = "/book/A Grades/A%02d-%s";
         return folderName + String.format(formatString, grade.getGrade(), grade.getTitle());
     }
 

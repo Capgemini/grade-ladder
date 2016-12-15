@@ -1,0 +1,5 @@
+
+
+task run {
+    dependsOn gradle.includedBuild('gradeladder-generator').task(':build')
+}
