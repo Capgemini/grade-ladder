@@ -29,7 +29,7 @@ public class BookSummaryRenderer extends ExpectationRenderer {
     }
 
     void addGradeSubHeadingToOutput(Grade grade) {
-        String formatString = "/book/A Grades/A%02d-%s";
+        String formatString = "/A Grades/A%02d-%s";
         String linkString = "A%02d-%s";
         output.add("* [" + String.format(linkString, grade.getGrade(), grade.getTitle()) + "](" + String.format(formatString, grade.getGrade(), grade.getTitle()) + "/README.md)");
     }

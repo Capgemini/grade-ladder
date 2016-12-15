@@ -94,7 +94,7 @@ public class GradeLadderGeneratorApp
 
         // Write Summary
         BookSummaryRenderer bookSummaryRenderer = new BookSummaryRenderer(repository);
-        FileWriter summaryWriter = new FileWriter(folder.toString() + "/SUMMARY.md");
+        FileWriter summaryWriter = new FileWriter(folder.toString() + "/book/SUMMARY.md");
         summaryWriter.write(bookSummaryRenderer.render());
         summaryWriter.close();
     }
