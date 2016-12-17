@@ -29,14 +29,15 @@ The source data is a csv file of the form:
 ##Build
 Simply build using maven:
 
-%>mvn clean install
+%> mvn clean install
 
 ##Run
-%>mvn exec:java -Dexec.args="../input/expectations.csv ../"
+%> mvn exec:java -Dexec.args="../input/expectations.csv ../"
 
 #Authors
 * [Rob Horn](https://github.com/robhorn-capgemini)
 
 #Contributors (thanks!)
 * [Andrew Harmel-Law](https://github.com/andrewharmellaw)
+* [Ant Broome](https://github.com/broomyocymru)
 

@@ -1,0 +1,84 @@
+# Software Engineering Ladder
+### _Software Engineer - Grade 6_
+## Technical Skills (Dex)
+You are a respected expert in your core language / technology and are sought for your opinion and guidance.
+
+You identify and promote shared development approaches, embedding them within your team_s practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.
+
+You care about the quality of the codebase and are continually looking for ways to improve it, as well as the experience of working with it.
+
+You understand the architecture, how it is delivered and run in production, and the impact your changes may have on it.
+
+You provide technical advice and input to technical decisions which impact your team and the wider project.
+
+You are able to non-functionally test and tune the components for which you are responsible (e.g. in areas of performance, security, accessibility, etc.)
+
+You anticipate technical issues at the component level, communicate these clearly to the relevant stakeholders, and make architectural / design decisions to avoid or resolve them.
+
+When encountering technical challenges you are able to find the underlying issues and patterns; and take a new perspective when required, even when these are outside your immediate problem domain.
+
+## Soft Skills (T)
+You are able to present technical concepts in a way that non-technical stakeholders fully understand. You are able to effectively communicate complex concepts including systems, but also processes and plans. Your written communication is clear, concise and uses simple language.
+
+You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you_re quick to challenge any behaviours which damage this.
+
+You actively take responsibility for issues rather than waiting waiting to be allocated to them.
+
+You probe when asking for information, and listen carefully.
+
+You make sound decisions based on evidence, and balancing the needs of stakeholder groups.
+
+## Getting Code Live (Str)
+You are persistent in the face of roadblocks - and dispatch them efficiently, pulling in others when necessary and escalating when required.
+
+You know how to configure more than one shared tool in all the key areas (e.g. version control system, build tool, continuous integration server, wiki, defect/work management tool.)
+
+You provide estimates for your work and your teams work, even when there is uncertainty around the requirements. You include assumptions and rationale to support the estimates.
+
+You are capable, given a prioritised backlog, of planning and tracking the work of a development team.
+
+## Impact (Wis)
+### Component Ownership
+You are the owner of, and expert in, one or more components, delivering them to QA once you believe they are well-baked and bug free.
+
+You are capable of taking components and breaking them into sub-components ready for development and delivery.
+
+You help the team cope with flexible scope or technical uncertainty.
+
+You look at test cases and advise QA on adjacent code / regression impact.
+
+You have a high-level understanding of other components in the solution.
+
+You are capable of providing LIVE support for your area, including components you are not fully familiar with.
+
+You document these components in a manner that is useful for other developers and architects.
+
+You are present whenever your component(s) go live for the first time, and whenever there are significant subsequent changes.
+
+### Technical Assessment and Adoption
+You have a good knowledge of current technology industry trends in your chosen domain.
+
+You evaluate and select new technologies and tools for the benefit of your project. The changes which you initiate are in the scope of delivery improvements but not necessarily visible to your client. You are aware of and able to gain the necessary organisational support and drive the change to completion.
+
+### Business Awareness
+You understand the business case and functional / non-functional requirements supported by all your components and work to ensure they are met
+
+You communicate key information to the correct stakeholders effectively and in a timely fashion.
+
+### Helping Your Colleagues
+You have multiple reviewees, giving them career guidance and advice as well as performing end of year review tasks.
+
+You contribute to internally-open-sourced shared libraries, frameworks and resources.
+
+You assist in the ongoing Capgemini recruitment efforts.
+
+### Winning New Work
+You recognise when colleagues could fulfil a role on your current project and help to get them resourced.
+
+When required, you contribute technical and reference examples to the sales process.
+
+## Team Leadership (Fel)
+You lead development teams on single-component pieces of work which form part of a larger delivery.
+
+## Advocacy and Ambassadorship (Cha)
+You are effective at managing up.

@@ -1,0 +1,57 @@
+plugins {
+    id "com.moowork.node" version "0.8"
+}
+
+apply plugin: 'com.moowork.node'
+apply plugin: 'java'
+
+sourceSets {
+    examples
+}
+
+node {
+    // Version of node to use.
+    version = '7.2.1'
+
+    // Version of npm to use.
+    npmVersion = '3.10.9'
+
+    // Base URL for fetching node distributions (change if you have a mirror).
+    distBaseUrl = 'http://nodejs.org/dist'
+
+    // If true, it will download node using above parameters.
+    // If false, it will try to use globally installed node.
+    download = false
+    workDir = file("${project.buildDir}/nodejs")
+}
+
+
+task buildPdf(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
+    executable = 'gitbook'
+    args = ['pdf', './src/book', "./output/capgemini_grade_ladder.pdf", "--verbose"]
+}
+
+task buildEpub(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
+    executable = 'gitbook'
+    args = ['epub', './src/book', "./output/capgemini_grade_ladder.epub", "--verbose"]
+}
+
+task buildMobi(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
+    executable = 'gitbook'
+    args = ['mobi', './src/book', "./output/capgemini_grade_ladder.mobi", "--verbose"]
+}
+
+task buildAll(dependsOn: ['buildMobi', 'buildEpub', 'buildPdf']) {
+    println 'Built PDF, Mobi and EPub!'
+}
+
+task serveBook(type:Exec, dependsOn: ['generateBook', 'npmInstall']) {
+    executable = 'gitbook'
+    args = ['serve', './src/book', "./output/http", '--verbose']
+}
+
+task generateBook(type:Exec){
+    dependsOn gradle.includedBuild('gradeladder-generator').task(':build')
+    executable = 'java'
+    args = ['-jar', 'gradeladder-generator/build/libs/gradeladder-generator-1.0-SNAPSHOT.jar', './input/expectations.csv', './src']
+}
