@@ -28,17 +28,17 @@ node {
 
 task buildPdf(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
     executable = 'gitbook'
-    args = ['pdf', './src/book', "./output/capgemini_grade_ladder.pdf", "--verbose"]
+    args = ['pdf', './', "./output/capgemini_grade_ladder.pdf", "--verbose"]
 }
 
 task buildEpub(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
     executable = 'gitbook'
-    args = ['epub', './src/book', "./output/capgemini_grade_ladder.epub", "--verbose"]
+    args = ['epub', './', "./output/capgemini_grade_ladder.epub", "--verbose"]
 }
 
 task buildMobi(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
     executable = 'gitbook'
-    args = ['mobi', './src/book', "./output/capgemini_grade_ladder.mobi", "--verbose"]
+    args = ['mobi', './', "./output/capgemini_grade_ladder.mobi", "--verbose"]
 }
 
 task buildAll(dependsOn: ['buildMobi', 'buildEpub', 'buildPdf']) {
@@ -47,7 +47,7 @@ task buildAll(dependsOn: ['buildMobi', 'buildEpub', 'buildPdf']) {
 
 task serveBook(type:Exec, dependsOn: ['generateBook', 'npmInstall']) {
     executable = 'gitbook'
-    args = ['serve', './src/book', "./output/http", '--verbose']
+    args = ['serve', './', "./output/http", '--verbose']
 }
 
 task generateBook(type:Exec){
