@@ -7,7 +7,7 @@
   "plugins": [],
   "links": {
     "sidebar": {
-      "Blog": "capgemini.github.io"
+      "Blog": "https://capgemini.github.io"
     }
   },
   "pdf": {
