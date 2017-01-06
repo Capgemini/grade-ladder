@@ -10,7 +10,7 @@ For us in Capgemini UK, we had the following four User Stories which we wanted t
 
 We acknowledge that, while we tried to make them as future-proof as possible, these documents will change over time.  That's why we're putting them on github.
 
-The current released version of the ladders is v.1.0.0-beta. 
+The current released version of the ladders is v.1.0.0-beta.
 
 The next scheduled version of the ladders is v.1.0.0 (planned for January 2017)
 
@@ -43,10 +43,11 @@ Generating a pdf, mobi and epub together or individually.
 ./gradlew buildEpub
 
 
-``` 
+```
 
 The output of all these commands are found in the /output directory.
 More details on how to customize the gitbook format can be found [here]("https://toolchain.gitbook.com/"").
+
 
 #Authors
 * [Andrew Harmel-Law](https://github.com/andrewharmellaw)
@@ -60,4 +61,3 @@ More details on how to customize the gitbook format can be found [here]("https:/
 * Paul Barker
 * [James Gee](https://github.com/geeman201)
 * [Ant Broome](https://github.com/broomyocymru)
-
