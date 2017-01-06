@@ -1,90 +1,90 @@
 "You write production-ready code either by pairing with a peer, or when provided with guidance on the best approach.",1|2,DEX,
 "You have a broad knowledge of core Computing Science concepts (OOAD / Code Structure, Algorithms and Data Structures, Operating Systems, Networking, HTTP, Data Management).",1,DEX,
-Your primary focus is on growth as an engineer - you are constantly learning how to learn.,1,DEX,
+"Your primary focus is on growth as an engineer - you are constantly learning how to learn.",1,DEX,
 "You are developing further competence in own area through training, development and experience.",1,DEX,
-You learn technical things quickly.,2,DEX,
-You are beginning to focus on gaining expertise in 1-2 specific areas.,2,DEX,
-You participate in the design of features (with close guidance).,2,DEX,
-You rightly depend on others for instruction & direction.,1|2,T,
-You are capable of taking well-defined tasks / sub tasks and completing them.,1|2,T,
-You are able to break down these tasks into smaller chunks in order to tackle them effectively.,1|2,T,
+"You learn technical things quickly.",2,DEX,
+"You are beginning to focus on gaining expertise in 1-2 specific areas.",2,DEX,
+"You participate in the design of features (with close guidance).",2,DEX,
+"You rightly depend on others for instruction & direction.",1|2,T,
+"You are capable of taking well-defined tasks / sub tasks and completing them.",1|2,T,
+"You are able to break down these tasks into smaller chunks in order to tackle them effectively.",1|2,T,
 "You prioritise and organise own work to deliver to agreed deadlines, and make steady progress on your work; needing only periodic feedback and input from seniors.",1|2,T,
-You use existing procedures to solve routine problems and escalate problems when appropriate.,1|2,T,
-You work co-operatively with others to achieve your team's goals.,1|2,T,
-You provide explanations clearly and precisely.,1|2,T,
+"You use existing procedures to solve routine problems and escalate problems when appropriate.",1|2,T,
+"You work co-operatively with others to achieve your team's goals.",1|2,T,
+"You provide explanations clearly and precisely.",1|2,T,
 "You ask questions, and check your understanding regularly.",1|2,T,
 "You are comfortable working on a client site, and you integrate into their environment.",1|2,T,
-You rarely make the same mistake twice.,2,T,
+"You rarely make the same mistake twice.",2,T,
 "You create correct and clean artefacts, following project-agreed best practices, and meeting the definition of",1|2,STR,
 "You know the core XP practices - TDD, Pair Programming and CI - and can apply them with increasing effectiveness.",1|2,STR,
-You know the core Scrum practices and can work effectively in a team which is applying them.,1|2,STR,
+"You know the core Scrum practices and can work effectively in a team which is applying them.",1|2,STR,
 "You demonstrate productivity skills by learning an SCM tool, an IDE, a build system and a Unit Test Framework.",1|2,STR,
-You are also able to configure local installations of these tools so you can use them efficiently.,1|2,STR,
+"You are also able to configure local installations of these tools so you can use them efficiently.",1|2,STR,
 "You have a more advanced knowledge of your tools, being able to use features such as keyboard shortcuts etc.",2,STR,
-You are the owner of a single feature.,1|2,WIS,Feature Ownership
+"You are the owner of a single feature.",1|2,WIS,Feature Ownership
 "You are present when this feature goes live for the first time, and whenever there are significant subsequent changes.",1|2,WIS,Feature Ownership
-You effectively use the standard tooling provided by the project.,1|2,WIS,Technical Assessment and Adoption
-You select additional personal tools which help you get your tasks done efficiently.,1|2,WIS,Technical Assessment and Adoption
+"You effectively use the standard tooling provided by the project.",1|2,WIS,Technical Assessment and Adoption
+"You select additional personal tools which help you get your tasks done efficiently.",1|2,WIS,Technical Assessment and Adoption
 "You understand the business-relevance of your feature, and use the applicable business-terminology when talking about it.",1|2,WIS,Business Awareness
-You contribute to existing industrialisation efforts which make your day-to-day life easier.,1|2,WIS,Helping Your Colleagues
+"You contribute to existing industrialisation efforts which make your day-to-day life easier.",1|2,WIS,Helping Your Colleagues
 "You are developing a deep expertise in a core language and / or technology, and gaining awareness of others.",3|4|5,DEX,
-You understand and make well-reasoned design decisions and trade-offs in your solution area.,3|4|5,DEX,
-You arrive at the required implementation given periodic input from peers. You mentor and code review those developers less experienced than you. You also provide recommendations on approaches to take.,3|4|5,DEX,
-You are comfortable producing small software components when supplied with a complete design.,3,DEX,
-You participate in the design of software components (with guidance).,3,DEX,
+"You understand and make well-reasoned design decisions and trade-offs in your solution area.",3|4|5,DEX,
+"You arrive at the required implementation given periodic input from peers. You mentor and code review those developers less experienced than you. You also provide recommendations on approaches to take.",3|4|5,DEX,
+"You are comfortable producing small software components when supplied with a complete design.",3,DEX,
+"You participate in the design of software components (with guidance).",3,DEX,
 "You are able to debug and solve problems in your own code or others code, with support or guidance from colleagues.",3,DEX,
 "You are able to work effectively and collaboratively with colleagues from other disciplines (e.g. Tester, BA, Platform engineer) and have an appreciation of how your development decisions impact their work.",3,DEX,
-You are comfortable working independently on larger software components.,4,DEX,
+"You are comfortable working independently on larger software components.",4,DEX,
 "You design small software components, and understand how they combine with others to form a complete system.",4,DEX,
 "You have an appreciation of non-functional requirements (e.g. performance, security, accessibility), their importance, and knowledge of tools used to verify they have been met.",4,DEX,
-You have a methodical and reasoned approach to debugging and problem solving.,4,DEX,
+"You have a methodical and reasoned approach to debugging and problem solving.",4,DEX,
 "You are able to work effectively in areas outside your core competency with guidance i.e as a Tester, a BA, a Platform Engineer, etc.",4,DEX,
-You are the go-to person in your area(s) of the solution.,5,DEX,
-You are able to work effectively in areas outside your core areas with infrequent guidance.,5,DEX,
+"You are the go-to person in your area(s) of the solution.",5,DEX,
+"You are able to work effectively in areas outside your core areas with infrequent guidance.",5,DEX,
 "You are able to help others in their debugging / problem solving, or debug complex problems on your own.",5,DEX,
 "You are able, with guidance, to non-functionally test and optimise your area of the solution.",5,DEX,
-You are influencing (or making when smaller scale) important project technical decisions.,5,DEX,
+"You are influencing (or making when smaller scale) important project technical decisions.",5,DEX,
 "You are capable of prioritising tasks: you focus on business value and technical risk-reduction, and you consciously avoid getting caught up in gold-plating. You seek guidance from others and collaboratively solve problems.",3|4|5,T,
 "You identify relevant areas for questioning. Through this practice and also via a general awareness, you identify problems and appreciate the effort required to resolve them.",3|4|5,T,
 "You are developing techniques for presenting information. You are able to present to small groups of clients, you are able to present at a level that is understood by you audience, i.e not completely technically focused.",3|4|5,T,
-You are involved and contribute to team-level technical discussions.,3|4|5,T,
+"You are involved and contribute to team-level technical discussions.",3|4|5,T,
 "You enjoy working in diverse and inclusive teams, recognising that they generate the most innovative solutions and ideas. This belief manifests itself in your desire to participate in a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you're quick to challenge any behaviours which damage this.",3|4|5,T,
 "You can persuade others in straightforward situations, having taken on board other people's perspectives, towards a positive outcome.",5,T,
-You are fully competent in your own area of expertise.,5,T,
+"You are fully competent in your own area of expertise.",5,T,
 "You manage your own time to meet agreed targets, and can develop plans for specific pieces of work.",5,T,
-You are capable of estimating to complete a well-scoped task and have a good knowledge of the architecture and existing code and technologies.,3|4|5,STR,
-You can communicate these estimates to other - non-technical - stakeholders.,3|4|5,STR,
-You can install and configure a new personal development environment for yourself and others.,3|4|5,STR,
-You are developing techniques to improve quality.,3|4|5,STR,
-You are the expert in one or more features on your primary project.,3|4|5,WIS,Feature Ownership
+"You are capable of estimating to complete a well-scoped task and have a good knowledge of the architecture and existing code and technologies.",3|4|5,STR,
+"You can communicate these estimates to other - non-technical - stakeholders.",3|4|5,STR,
+"You can install and configure a new personal development environment for yourself and others.",3|4|5,STR,
+"You are developing techniques to improve quality.",3|4|5,STR,
+"You are the expert in one or more features on your primary project.",3|4|5,WIS,Feature Ownership
 "You are present when any of them goes live for the first time, and whenever there are significant subsequent changes. You consider how your feature will be supported after go-live and collaborate with other teams to ensure their smooth transition to live service.",3|4|5,WIS,Feature Ownership
-You are capable of working with non-technical stakeholders to fully understand a project's requirements.,3|4|5,WIS,Feature Ownership
+"You are capable of working with non-technical stakeholders to fully understand a project's requirements.",3|4|5,WIS,Feature Ownership
 "You propose new tools (or changes to existing ones) which help you and your colleagues get your work done more efficiently (e.g. automation tools, testing frameworks, collaboration tools).",3|4|5,WIS,Technical Assessment and Adoption
 "You fully understand the business cases and functional / non-functional (e.g. performance, security, accessibility) requirements supported by your feature(s).",3|4|5,WIS,Business Awareness
-You are a regular presenter at demos with your client and are involved in both team-level and business-level technical discussions.,4,WIS,Business Awareness
-You are capable of leading demos and technical discussions with both internal and external stakeholders (both technical and non-technical).,5,WIS,Business Awareness
-You demonstrate your awareness of business value by proposing new features or approaches to your client and internal stakeholders.,5,WIS,Business Awareness
+"You are a regular presenter at demos with your client and are involved in both team-level and business-level technical discussions.",4,WIS,Business Awareness
+"You are capable of leading demos and technical discussions with both internal and external stakeholders (both technical and non-technical).",5,WIS,Business Awareness
+"You demonstrate your awareness of business value by proposing new features or approaches to your client and internal stakeholders.",5,WIS,Business Awareness
 "You identify areas where common templates, starter-kits, shared-libraries or approaches could deliver efficiencies and improve quality, and you contribute to their development. This may result in blog posts, (internal) open source projects, lunchtime brown-bag sessions, etc.",3|4|5,WIS,Helping Your Colleagues
 "You may have some Graduate or Apprentice Reviewees, advising them on how to make the best out of their burgeoning careers in technology.",4,WIS,Helping Your Colleagues
 "You will have some Graduate or Apprentice Reviewees, giving them career guidance and advice as well as performing end of year review tasks.",5,WIS,Helping Your Colleagues
-You can identify when code you are working on could be open-sourced (internally or externally) and seek approval to do so.,5,WIS,Helping Your Colleagues
-You plan your personal development to ensure you have the right skills for the roles you want.,3|4|5,WIS,Winning New Work
-You are capable of standing in for your project team lead when they are unavailable.,4,FEL,
+"You can identify when code you are working on could be open-sourced (internally or externally) and seek approval to do so.",5,WIS,Helping Your Colleagues
+"You plan your personal development to ensure you have the right skills for the roles you want.",3|4|5,WIS,Winning New Work
+"You are capable of standing in for your project team lead when they are unavailable.",4,FEL,
 "You lead small, co-located teams of 3-4 on small-scale and tightly-scoped pieces of work (either isolated or as part of a larger delivery).",5,FEL,
 "You share technology news updates, favourite blog posts and conference sessions with the team via email / social media.",3,CHA,
-You are a recognised go-to person on your project for one or two technologies / tools.,4,CHA,
-You are a recognised go-to person in the wider team for one or more technologies / tools. They come to you for advice.,5,CHA,
-You are a respected expert in your core language / technology and are sought for your opinion and guidance.,6|7,DEX,
-"You identify and promote shared development approaches, embedding them within your team_s practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.",6|7,DEX,
+"You are a recognised go-to person on your project for one or two technologies / tools.",4,CHA,
+"You are a recognised go-to person in the wider team for one or more technologies / tools. They come to you for advice.",5,CHA,
+"You are a respected expert in your core language / technology and are sought for your opinion and guidance.",6|7,DEX,
+"You identify and promote shared development approaches, embedding them within your team's practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.",6|7,DEX,
 "You care about the quality of the codebase and are continually looking for ways to improve it, as well as the experience of working with it.",6|7,DEX,
 "You understand the architecture, how it is delivered and run in production, and the impact your changes may have on it.",6|7,DEX,
-You provide technical advice and input to technical decisions which impact your team and the wider project.,6|7,DEX,
+"You provide technical advice and input to technical decisions which impact your team and the wider project.",6|7,DEX,
 "You are able to non-functionally test and tune the components for which you are responsible (e.g. in areas of performance, security, accessibility, etc.)",6|7,DEX,
 "You anticipate technical issues at the component level, communicate these clearly to the relevant stakeholders, and make architectural / design decisions to avoid or resolve them.",6|7,DEX,
 "When encountering technical challenges you are able to find the underlying issues and patterns; and take a new perspective when required, even when these are outside your immediate problem domain.",6|7,DEX,
 "You are able to present technical concepts in a way that non-technical stakeholders fully understand. You are able to effectively communicate complex concepts including systems, but also processes and plans. Your written communication is clear, concise and uses simple language.",6|7,T,
-"You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you_re quick to challenge any behaviours which damage this.",6|7,T,
-You actively take responsibility for issues rather than waiting waiting to be allocated to them.,6,T,
+"You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you're quick to challenge any behaviours which damage this.",6|7,T,
+"You actively take responsibility for issues rather than waiting waiting to be allocated to them.",6,T,
 "You probe when asking for information, and listen carefully.",6,T,
 "You make sound decisions based on evidence, and balancing the needs of stakeholder groups.",6,T,
 "You seek empirical evidence through proof-of-concepts, tests and external research.",7,T,
@@ -96,85 +96,85 @@ You actively take responsibility for issues rather than waiting waiting to be al
 "You provide estimates for your work, and your teams work, even when there is a significant degree of uncertainty around requirements or architecture. You include assumptions and rationale to support the estimates.",7,STR,
 "You are capable of prioritising stories for your team based on technical risk, business priorities, and prevailing stakeholder priorities and you require minimal direction / oversight.",7,STR,
 "You can manage scope and changes to that scope across this backlog, including an awareness of the impact of any changes.",7,STR,
-You organise others and allocate defects to ensure that a quality outcome is delivered.,7,STR,
+"You organise others and allocate defects to ensure that a quality outcome is delivered.",7,STR,
 "You can set up integrated toolchains, train others in their usage, and identify areas where processes could be improved.",7,STR,
 "You are the owner of, and expert in, one or more components, delivering them to QA once you believe they are well-baked and bug free.",6|7,WIS,Component Ownership
-You are capable of taking components and breaking them into sub-components ready for development and delivery.,6|7,WIS,Component Ownership
-You help the team cope with flexible scope or technical uncertainty.,6|7,WIS,Component Ownership
-You look at test cases and advise QA on adjacent code / regression impact.,6|7,WIS,Component Ownership
-You have a high-level understanding of other components in the solution.,6|7,WIS,Component Ownership
+"You are capable of taking components and breaking them into sub-components ready for development and delivery.",6|7,WIS,Component Ownership
+"You help the team cope with flexible scope or technical uncertainty.",6|7,WIS,Component Ownership
+"You look at test cases and advise QA on adjacent code / regression impact.",6|7,WIS,Component Ownership
+"You have a high-level understanding of other components in the solution.",6|7,WIS,Component Ownership
 "You are capable of providing LIVE support for your area, including components you are not fully familiar with.",6|7,WIS,Component Ownership
-You document these components in a manner that is useful for other developers and architects.,6|7,WIS,Component Ownership
+"You document these components in a manner that is useful for other developers and architects.",6|7,WIS,Component Ownership
 "You are present whenever your component(s) go live for the first time, and whenever there are significant subsequent changes.",6,WIS,Component Ownership
-"You work with non-technical stakeholders to drive out a solution_s requirements, focussing on balancing the business needs and non-functional aspects as priorities.",7,WIS,Component Ownership
-You delegate responsibility for the delivery of a feature.,7,WIS,Component Ownership
+"You work with non-technical stakeholders to drive out a solution's requirements, focussing on balancing the business needs and non-functional aspects as priorities.",7,WIS,Component Ownership
+"You delegate responsibility for the delivery of a feature.",7,WIS,Component Ownership
 "You plan and lead the deployment when your component(s) go live for the first time, and whenever there are significant subsequent changes.",7,WIS,Component Ownership
-You have a good knowledge of current technology industry trends in your chosen domain.,6|7,WIS,Technical Assessment and Adoption
-You evaluate and select new technologies and tools for the benefit of your project. The changes which you initiate are in the scope of delivery improvements but not necessarily visible to your client. You are aware of and able to gain the necessary organisational support and drive the change to completion.,6,WIS,Technical Assessment and Adoption
+"You have a good knowledge of current technology industry trends in your chosen domain.",6|7,WIS,Technical Assessment and Adoption
+"You evaluate and select new technologies and tools for the benefit of your project. The changes which you initiate are in the scope of delivery improvements but not necessarily visible to your client. You are aware of and able to gain the necessary organisational support and drive the change to completion.",6,WIS,Technical Assessment and Adoption
 "You impact assess, decide on, and deploy these new technologies and tools for the benefit of both your team and the project.",7,WIS,Technical Assessment and Adoption
 "These changes that you initiate are visible to the client, and the client sees their benefit.",7,WIS,Technical Assessment and Adoption
-You understand the business case and functional / non-functional requirements supported by all your components and work to ensure they are met,6|7,WIS,Business Awareness
-You communicate key information to the correct stakeholders effectively and in a timely fashion.,6|7,WIS,Business Awareness
+"You understand the business case and functional / non-functional requirements supported by all your components and work to ensure they are met",6|7,WIS,Business Awareness
+"You communicate key information to the correct stakeholders effectively and in a timely fashion.",6|7,WIS,Business Awareness
 "You have multiple reviewees, giving them career guidance and advice as well as performing end of year review tasks.",6|7,WIS,Helping Your Colleagues
 "You contribute to internally-open-sourced shared libraries, frameworks and resources.",6|7,WIS,Helping Your Colleagues
-You assist in the ongoing Capgemini recruitment efforts.,6|7,WIS,Helping Your Colleagues
-You participate in giving training courses and initiate and guide peer-learning groups.,7,WIS,Helping Your Colleagues
-You recognise when colleagues could fulfil a role on your current project and help to get them resourced.,6|7,WIS,Winning New Work
+"You assist in the ongoing Capgemini recruitment efforts.",6|7,WIS,Helping Your Colleagues
+"You participate in giving training courses and initiate and guide peer-learning groups.",7,WIS,Helping Your Colleagues
+"You recognise when colleagues could fulfil a role on your current project and help to get them resourced.",6|7,WIS,Winning New Work
 "When required, you contribute technical and reference examples to the sales process.",6|7,WIS,Winning New Work
-You are the bid lead for your technical area.,7,WIS,Winning New Work
-You lead development teams on single-component pieces of work which form part of a larger delivery.,6,FEL,
-You lead distributed Scrum teams working on multiple core components with tight timescales and complex requirements.,7,FEL,
-You are effective at managing up.,6,CHA,
-You are the single point of contact for a technology or practice on your project. You are sought out for your technical guidance.,7,CHA,
+"You are the bid lead for your technical area.",7,WIS,Winning New Work
+"You lead development teams on single-component pieces of work which form part of a larger delivery.",6,FEL,
+"You lead distributed Scrum teams working on multiple core components with tight timescales and complex requirements.",7,FEL,
+"You are effective at managing up.",6,CHA,
+"You are the single point of contact for a technology or practice on your project. You are sought out for your technical guidance.",7,CHA,
 "The code you produce is frequently exemplar code for the benefit of others. You can still roll up your sleeves when needed, and are in touch with how the code base ""feels"".",8,DEX,
 "You have a breadth of knowledge across a range of languages / technologies in different paradigms (e.g. Object-Oriented / Functional, front-end / back-end) and an ability to rapidly grasp the key concepts in ones which you are unfamiliar with.",8,DEX,
-You are able to lead others in complex problem solving tasks _ teaching them new skills in the process.,8,DEX,
+"You are able to lead others in complex problem solving tasks' teaching them new skills in the process.",8,DEX,
 "You anticipate technical issues, communicate these properly to the relevant stakeholders, and make architectural / design decisions to avoid / resolve them.",8,DEX,
 "You have a deep understanding of related approaches and disciplines such as Agile, DevOps, and Software / Solution Architecture.",8,DEX,
-You are capable of debugging the hairiest problems which your team encounters.,8,DEX,
-"You have an appreciation for the other key roles on a project (Engagement Manager, Test Lead, Lead Business Analyst, etc.) and are able to manage in their absence",8,DEX,
+"You are capable of debugging the hairiest problems which your team encounters.",8,DEX,
+"You have an appreciation for the other key roles on a project (Engagement Manager, Test Lead, Lead Business Analyst, etc.) and are able to manage in their absence.",8,DEX,
 "You are able to work within and understand a complex commercial relationship with a client, and make decisions or recommendations which are sympathetic to these needs.",8,T,
-You prioritise and organise your own work and the work of others in order to deliver to agreed deadlines. You recognise when the work requires your direct input or is more appropriately delegated to other team members.,8,T,
+"You prioritise and organise your own work and the work of others in order to deliver to agreed deadlines. You recognise when the work requires your direct input or is more appropriately delegated to other team members.",8,T,
 "You seek out opposing opinions to your own, and regularly challenge what you know and understand.",8,T,
-You adapt your information and style to your audience and explain difficult issues clearly. You can communicate complex technical solutions to other developers. You are able to explain key solution details and communicate these to both technical and non-technical stakeholders.,8,T,
-You anticipate potential objections to this information and prepare your case accordingly.,8,T,
+"You adapt your information and style to your audience and explain difficult issues clearly. You can communicate complex technical solutions to other developers. You are able to explain key solution details and communicate these to both technical and non-technical stakeholders.",8,T,
+"You anticipate potential objections to this information and prepare your case accordingly.",8,T,
 "You are capable of considering and weighing up a range of (possibly conflicting) opinions, are able to sum up the key points of each of them and make a final recommendation.",8,T,
-"You consider _the bigger picture_ when making decisions. This may include - but not be limited to - business, commercial or legal perspectives.",8,T,
+"You consider 'the bigger picture' when making decisions. This may include - but not be limited to - business, commercial or legal perspectives.",8,T,
 "You are highly aware of the non-functional requirements of the solution, work to ensure your design and development meets these requirements and can evidence this via non-functional tests.",8,T,
-You are an expert Agile practitioner and can offer guidance on all aspects of agile development.,8,STR,
+"You are an expert Agile practitioner and can offer guidance on all aspects of agile development.",8,STR,
 "You are capable of prioritising multiple interrelated backlogs of stories based on technical risk, business and stakeholder priorities.",8,STR,
-You are able to facilitate a team towards an estimate in which you have reasonable confidence for stories given a great deal of uncertainty about the eventual architecture / platform / technology stack.,8,STR,
-You are known for drama-free releases.,8,STR,
+"You are able to facilitate a team towards an estimate in which you have reasonable confidence for stories given a great deal of uncertainty about the eventual architecture / platform / technology stack.",8,STR,
+"You are known for drama-free releases.",8,STR,
 "You consistently deliver large systems involving contributions from one or more teams, on time, to a high level of quality.",8,WIS,Solution Ownership
 "You take ownership of complex streams of work, acting as the the lead for all stages of the software delivery lifecycle. You can shape a solution and provide technical leadership to others.",8,WIS,Solution Ownership
-You set direction at the system level and are consistently and positively influencing decision-making at the programme level.,8,WIS,Solution Ownership
+"You set direction at the system level and are consistently and positively influencing decision-making at the programme level.",8,WIS,Solution Ownership
 "You consistently reduce the complexity of solutions and components, to get more done with less effort.",8,WIS,Solution Ownership
-You recognise and make trade-offs with respect to the whole solution.,8,WIS,Solution Ownership
+"You recognise and make trade-offs with respect to the whole solution.",8,WIS,Solution Ownership
 "You take the initiative to identify and solve problems, co-ordinating with others on cross-cutting issues.",8,WIS,Solution Ownership
 "You scope and shape work for multiple teams into well-defined backlogs, and avoiding monolithic deliverables. You handle complex, cross-cutting changes to this scope.",8,WIS,Solution Ownership
-You are present whenever architecturally significant components or features go-live for the first time. You work to make all subsequent deployments of these as much of a non-event as possible - always aiming for it to be a single button push.,8,WIS,Solution Ownership
+"You are present whenever architecturally significant components or features go-live for the first time. You work to make all subsequent deployments of these as much of a non-event as possible - always aiming for it to be a single button push.",8,WIS,Solution Ownership
 "You identify and proactively tackle technical debt, before it grows into something which will take significant time and cost to resolve.",8,WIS,Solution Ownership
-You document your deliverables in a manner that is understandable by and valuable to other developers / architects / support staff.,8,WIS,Solution Ownership
+"You document your deliverables in a manner that is understandable by and valuable to other developers / architects / support staff.",8,WIS,Solution Ownership
 "You research and propose new technologies and practices, positively impacting the delivery of your entire programme.",8,WIS,Technical Assessment and Adoption
 "You keep up to date with industry developments, actively learning and keeping abreast of the latest technologies. You are able to determine areas in which both your project and the wider team should invest.",8,WIS,Technical Assessment and Adoption
-You are a recognised expert for multiple technologies or practices. You are sought out for guidance by people outside your project.,8,WIS,Technical Assessment and Adoption
-You are significantly involved in ensuring the wider team develops as a coherent community of interest and best practice. You are recognised outside of the team as being a leader of this Community.,8,WIS,Technical Assessment and Adoption
+"You are a recognised expert for multiple technologies or practices. You are sought out for guidance by people outside your project.",8,WIS,Technical Assessment and Adoption
+"You are significantly involved in ensuring the wider team develops as a coherent community of interest and best practice. You are recognised outside of the team as being a leader of this Community.",8,WIS,Technical Assessment and Adoption
 "You fully understand the business value delivered by your software, and the impact your project will have on a customer.",8,WIS,Business Awareness
-You partner with Business Analysts and client representatives to drive out requirements which take into account the needs of all stakeholders.,8,WIS,Business Awareness
-You possess empathy for the user of the software being produced and use this to guide your decision making.,8,WIS,Business Awareness
+"You partner with Business Analysts and client representatives to drive out requirements which take into account the needs of all stakeholders.",8,WIS,Business Awareness
+"You possess empathy for the user of the software being produced and use this to guide your decision making.",8,WIS,Business Awareness
 "You are a reviewer for many team members, giving them career guidance and advice as well as leading them through the performance management process.",8,WIS,Developing Our Team
 "You are recognised as a creator of, and prolific contributor to, initiatives or side-projects which contribute to the development of the team or organisation. For example you may create and contribute to open source software projects or deliver training courses and initiate and guide peer-learning groups.",8,WIS,Developing Our Team
-You coach and mentor our Junior Talent to develop their skills and understanding of how we work.,8,WIS,Developing Our Team
-You identify potential sales opportunities and raise them to the relevant team.,8,WIS,Winning New Work
-You contribute to bids by proposing solutions and approaches which meet customer needs and follow our combined best practices.,8,WIS,Winning New Work
-You contribute to written responses and customer presentations as part of the sales process.,8,WIS,Winning New Work
-You lead multiple Scrum teams and may also run the Scrum of Scrums.,8,FEL,
-You are able to delegate responsibility for the delivery of components.,8,FEL,
-You deputise for your team lead when they are on leave / unavailable.,8,FEL,
-You are able to deal with the basic day to day people-management of a team.,8,FEL,
-Everyone in the team knows you are an expert in one or more technical or procedural areas. They come to you for advice regarding this.,8,CHA,
-You provide technical leadership to your team. You are seen as an expert in Software Engineering.,8,CHA,
+"You coach and mentor our Junior Talent to develop their skills and understanding of how we work.",8,WIS,Developing Our Team
+"You identify potential sales opportunities and raise them to the relevant team.",8,WIS,Winning New Work
+"You contribute to bids by proposing solutions and approaches which meet customer needs and follow our combined best practices.",8,WIS,Winning New Work
+"You contribute to written responses and customer presentations as part of the sales process.",8,WIS,Winning New Work
+"You lead multiple Scrum teams and may also run the Scrum of Scrums.",8,FEL,
+"You are able to delegate responsibility for the delivery of components.",8,FEL,
+"You deputise for your team lead when they are on leave / unavailable.",8,FEL,
+"You are able to deal with the basic day to day people-management of a team.",8,FEL,
+"Everyone in the team knows you are an expert in one or more technical or procedural areas. They come to you for advice regarding this.",8,CHA,
+"You provide technical leadership to your team. You are seen as an expert in Software Engineering.",8,CHA,
 "You are beginning to build a reputation as an expert outside of Capgemini. This means you may have presented at a meetup or conference, written a series of popular blog posts, own a strong relationship with a major partner, or are a contributing member of a well-known open source project.",8,CHA,
 "In short, you influence others well beyond your current project.",8,CHA,
-Nothing at this grade,1|2|3,FEL,
-Nothing at this grade,1|2,CHA,
+"Nothing at this grade",1|2|3,FEL,
+"Nothing at this grade",1|2,CHA,

@@ -70,7 +70,7 @@ You are influencing (or making when smaller scale) important project technical d
 ### _Software Engineer - Grade 6_
 You are a respected expert in your core language / technology and are sought for your opinion and guidance.
 
-You identify and promote shared development approaches, embedding them within your team_s practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.
+You identify and promote shared development approaches, embedding them within your team's practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.
 
 You care about the quality of the codebase and are continually looking for ways to improve it, as well as the experience of working with it.
 
@@ -87,7 +87,7 @@ When encountering technical challenges you are able to find the underlying issue
 ### _Software Engineer - Grade 7_
 You are a respected expert in your core language / technology and are sought for your opinion and guidance.
 
-You identify and promote shared development approaches, embedding them within your team_s practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.
+You identify and promote shared development approaches, embedding them within your team's practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.
 
 You care about the quality of the codebase and are continually looking for ways to improve it, as well as the experience of working with it.
 
@@ -106,7 +106,7 @@ The code you produce is frequently exemplar code for the benefit of others. You 
 
 You have a breadth of knowledge across a range of languages / technologies in different paradigms (e.g. Object-Oriented / Functional, front-end / back-end) and an ability to rapidly grasp the key concepts in ones which you are unfamiliar with.
 
-You are able to lead others in complex problem solving tasks _ teaching them new skills in the process.
+You are able to lead others in complex problem solving tasks' teaching them new skills in the process.
 
 You anticipate technical issues, communicate these properly to the relevant stakeholders, and make architectural / design decisions to avoid / resolve them.
 
@@ -114,7 +114,7 @@ You have a deep understanding of related approaches and disciplines such as Agil
 
 You are capable of debugging the hairiest problems which your team encounters.
 
-You have an appreciation for the other key roles on a project (Engagement Manager, Test Lead, Lead Business Analyst, etc.) and are able to manage in their absence
+You have an appreciation for the other key roles on a project (Engagement Manager, Test Lead, Lead Business Analyst, etc.) and are able to manage in their absence.
 
 ### _Software Engineer - Grade 9_
 ### _Software Engineer - Grade 10_
@@ -201,7 +201,7 @@ You manage your own time to meet agreed targets, and can develop plans for speci
 ### _Software Engineer - Grade 6_
 You are able to present technical concepts in a way that non-technical stakeholders fully understand. You are able to effectively communicate complex concepts including systems, but also processes and plans. Your written communication is clear, concise and uses simple language.
 
-You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you_re quick to challenge any behaviours which damage this.
+You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you're quick to challenge any behaviours which damage this.
 
 You actively take responsibility for issues rather than waiting waiting to be allocated to them.
 
@@ -212,7 +212,7 @@ You make sound decisions based on evidence, and balancing the needs of stakehold
 ### _Software Engineer - Grade 7_
 You are able to present technical concepts in a way that non-technical stakeholders fully understand. You are able to effectively communicate complex concepts including systems, but also processes and plans. Your written communication is clear, concise and uses simple language.
 
-You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you_re quick to challenge any behaviours which damage this.
+You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you're quick to challenge any behaviours which damage this.
 
 You seek empirical evidence through proof-of-concepts, tests and external research.
 
@@ -231,7 +231,7 @@ You anticipate potential objections to this information and prepare your case ac
 
 You are capable of considering and weighing up a range of (possibly conflicting) opinions, are able to sum up the key points of each of them and make a final recommendation.
 
-You consider _the bigger picture_ when making decisions. This may include - but not be limited to - business, commercial or legal perspectives.
+You consider 'the bigger picture' when making decisions. This may include - but not be limited to - business, commercial or legal perspectives.
 
 You are highly aware of the non-functional requirements of the solution, work to ensure your design and development meets these requirements and can evidence this via non-functional tests.
 
