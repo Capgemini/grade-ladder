@@ -5,7 +5,7 @@ The code you produce is frequently exemplar code for the benefit of others. You 
 
 You have a breadth of knowledge across a range of languages / technologies in different paradigms (e.g. Object-Oriented / Functional, front-end / back-end) and an ability to rapidly grasp the key concepts in ones which you are unfamiliar with.
 
-You are able to lead others in complex problem solving tasks _ teaching them new skills in the process.
+You are able to lead others in complex problem solving tasks' teaching them new skills in the process.
 
 You anticipate technical issues, communicate these properly to the relevant stakeholders, and make architectural / design decisions to avoid / resolve them.
 
@@ -13,7 +13,7 @@ You have a deep understanding of related approaches and disciplines such as Agil
 
 You are capable of debugging the hairiest problems which your team encounters.
 
-You have an appreciation for the other key roles on a project (Engagement Manager, Test Lead, Lead Business Analyst, etc.) and are able to manage in their absence
+You have an appreciation for the other key roles on a project (Engagement Manager, Test Lead, Lead Business Analyst, etc.) and are able to manage in their absence.
 
 ## Soft Skills (T)
 You are able to work within and understand a complex commercial relationship with a client, and make decisions or recommendations which are sympathetic to these needs.
@@ -28,7 +28,7 @@ You anticipate potential objections to this information and prepare your case ac
 
 You are capable of considering and weighing up a range of (possibly conflicting) opinions, are able to sum up the key points of each of them and make a final recommendation.
 
-You consider _the bigger picture_ when making decisions. This may include - but not be limited to - business, commercial or legal perspectives.
+You consider 'the bigger picture' when making decisions. This may include - but not be limited to - business, commercial or legal perspectives.
 
 You are highly aware of the non-functional requirements of the solution, work to ensure your design and development meets these requirements and can evidence this via non-functional tests.
 

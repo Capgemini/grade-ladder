@@ -3,7 +3,7 @@
 ## Technical Skills (Dex)
 You are a respected expert in your core language / technology and are sought for your opinion and guidance.
 
-You identify and promote shared development approaches, embedding them within your team_s practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.
+You identify and promote shared development approaches, embedding them within your team's practices. You are aware of emerging industry best practices and can lead initiatives to determine their appropriateness for use in your team.
 
 You care about the quality of the codebase and are continually looking for ways to improve it, as well as the experience of working with it.
 
@@ -20,7 +20,7 @@ When encountering technical challenges you are able to find the underlying issue
 ## Soft Skills (T)
 You are able to present technical concepts in a way that non-technical stakeholders fully understand. You are able to effectively communicate complex concepts including systems, but also processes and plans. Your written communication is clear, concise and uses simple language.
 
-You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you_re quick to challenge any behaviours which damage this.
+You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you're quick to challenge any behaviours which damage this.
 
 You actively take responsibility for issues rather than waiting waiting to be allocated to them.
 
