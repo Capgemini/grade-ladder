@@ -1,4 +1,4 @@
-This grade-ladder both took inspiration from, and evolved out of [Camille Fournier](http://twitter.com/skalille)'s [Rent the Runway grade ladder] (http://dresscode.renttherunway.com/blog/ladder) (which in turn took its inspiration from the original Foursquare Engineering Ladder made by Harry Heymann, Jason Liszka and Andrew Hogue).
+This grade-ladder both took inspiration from, and evolved out of [Camille Fournier](http://twitter.com/skalille)'s [Rent the Runway grade ladder](http://dresscode.renttherunway.com/blog/ladder) (which in turn took its inspiration from the original Foursquare Engineering Ladder made by Harry Heymann, Jason Liszka and Andrew Hogue).
 
 For us in Capgemini UK, we had the following four User Stories which we wanted to address:
 
