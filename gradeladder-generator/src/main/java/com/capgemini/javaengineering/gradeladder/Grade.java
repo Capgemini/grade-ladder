@@ -9,9 +9,9 @@ enum Grade {
     FIVE (5, "SoftwareEngineer"),
     SIX (6, "SeniorSoftwareEngineer"),
     SEVEN (7, "SeniorSoftwareEngineer"),
-    EIGHT (8, "LeadSoftwareEngineer"),
-    NINE (9, "PrincipleSoftwareEngineer"),
-    TEN (10, "PrincipleSoftwareEngineer");
+    EIGHT (8, "LeadSoftwareEngineer");
+    //NINE (9, "PrincipleSoftwareEngineer"),
+    //TEN (10, "PrincipleSoftwareEngineer");
 
     private final int grade;
     private String title;
@@ -48,10 +48,10 @@ enum Grade {
                 return SEVEN;
             case 8:
                 return EIGHT;
-            case 9:
-                return NINE;
-            case 10:
-                return TEN;
+            // case 9:
+            //     return NINE;
+            // case 10:
+            //     return TEN;
             default:
                 throw new AssertionError("Unknown Grade");
         }

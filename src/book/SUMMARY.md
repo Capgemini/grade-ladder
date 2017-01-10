@@ -7,5 +7,3 @@
 * [A06-SeniorSoftwareEngineer](/A Grades/A06-SeniorSoftwareEngineer/README.md)
 * [A07-SeniorSoftwareEngineer](/A Grades/A07-SeniorSoftwareEngineer/README.md)
 * [A08-LeadSoftwareEngineer](/A Grades/A08-LeadSoftwareEngineer/README.md)
-* [A09-PrincipleSoftwareEngineer](/A Grades/A09-PrincipleSoftwareEngineer/README.md)
-* [A10-PrincipleSoftwareEngineer](/A Grades/A10-PrincipleSoftwareEngineer/README.md)

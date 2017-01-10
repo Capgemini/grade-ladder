@@ -16,10 +16,10 @@ public class GradeLadderGeneratorAppTest {
     }
 
     @Test
-    public void createFileNameShouldFormatG10AsExpected() throws Exception {
+    public void createFileNameShouldFormatG8AsExpected() throws Exception {
 
-        String expectedFileName = "test/flat/SE_Ladder-A10-PrincipleSoftwareEngineer.md";
-        Grade g = Grade.TEN;
+        String expectedFileName = "test/flat/SE_Ladder-A08-LeadSoftwareEngineer.md";
+        Grade g = Grade.EIGHT;
         assertEquals(expectedFileName, GradeLadderGeneratorApp.createFileName("test", g));
 
     }
