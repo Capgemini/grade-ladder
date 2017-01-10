@@ -1,9 +1,13 @@
 body, html {
-    font-family: 'bariol_regular' !important;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif !important;
 }
 
 h1, h2, h3, h4 {
-    color: #0979b9 !important;
+    color: #00488d !important;
+}
+
+h1, h2, h3, h4, p, a {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 a:hover {
@@ -11,7 +15,7 @@ a:hover {
 }
 
 .book-summary {
-    background-color: #70b7d5 !important;
+    background-color: #0098cc !important;
 }
 
 .book-summary .opentracing-logo img {
@@ -26,12 +30,4 @@ a:hover {
 
 .book-summary ul.summary li.active > a {
     text-decoration: underline;
-}
-
-
-
-
-
-h1, h2, h3, h4, p, a {
-    font-family: 'bariol_regular';
 }
