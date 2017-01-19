@@ -1,10 +1,21 @@
-This grade-ladder both took inspiration from, and evolved out of [Camille Fournier](http://twitter.com/skalille)'s [Rent the Runway grade ladder](http://dresscode.renttherunway.com/blog/ladder) (which in turn took its inspiration from the original Foursquare Engineering Ladder made by Harry Heymann, Jason Liszka and Andrew Hogue).
+# Capgemini UK Software Engineering Grade Ladder
 
-For us in Capgemini UK, we had the following four User Stories which we wanted to address:
+This grade ladder was inspired by a blog post from [Camille Fournier](https://twitter.com/skamille)'s [renttherunway.com](http://dresscode.renttherunway.com/blog/ladder) in which they shared their ladder (and they took inspiration from the original [Foursquare engineering](http://engineering.foursquare.com/) ladder made by [Harry Heymann](https://twitter.com/harryh), [Jason Liszka](https://twitter.com/jliszka) and [Andrew Hogue](https://twitter.com/ahogue)).
 
-* Attraction of potential recruits – this is how we value your skills at Capgemini
-* Pre-interview – what grade might I be at Capgemini?
-* Onboarding – I’ve just started at Capgemini, what is expected of me?
-* Promotion – I want to get promoted. How do I get to the next grade?
+We are sharing our latest evolution, licensed under the [creative commons Attribution-NonCommercial-ShareAlike 4.0 International licence (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). That means we too are cool with you taking it and making it your own, all we ask is that you don't make money off it, and that you credit those who came before you, just as we have.
 
-We acknowledge that, while we tried to make them as future-proof as possible, these documents will change over time.  That's why we're putting them on github.
+When documenting the grades our objectives were to:
+
+* be [actively inclusive](https://www.uk.capgemini.com/our-active-inclusion-strategy) (to ensure that we not only attract and recruit a diverse group of people, but also retain and develop those individuals once they are part of [our team](https://www.uk.capgemini.com/careers/meet-our-people))
+* be team-owned (it's ours!)
+* be generic (it won't be tied to technologies, so it is less likely to go out of date this way)
+* allow it to evolve (we can change it)
+* be versioned (we know which one we're working against)
+* not be written specific to Capgemini (because many of the consumers will not know our internal jargon / processes)
+* be HR-friendly (so it aids everyone's career progression, rather then confusing it)
+* be open and public (so everyone can see it and everyone can contribute to it)
+
+
+We have found the ladder has aided us in several ways. When hiring it's helped recruiters to understand what we expect from candidates. During interviews it assists us to see where someone would fit. When people join us the ladder provides a terms of reference for the expectations we have of you. Continuing through your career the ladder then assists forming the basis to understand how you can grow and demonstrate abilities to justify progression to more senior positions within the team.
+
+We've published it on our [GitHub](https://github.com/Capgemini/grade-ladder) and as a [GitBook](https://capgemini.gitbooks.io/grade-ladder/content/) (read more on this below) where it's available to read online or as a [PDF](https://www.gitbook.com/download/pdf/book/capgemini/grade-ladder), [Mobi](https://www.gitbook.com/download/mobi/book/capgemini/grade-ladder) or [EPub](https://www.gitbook.com/download/epub/book/capgemini/grade-ladder). If this sounds like the kind of place you'd like to work then you can check out our latest opportunities [here](https://www.uk.capgemini.com/careers).
