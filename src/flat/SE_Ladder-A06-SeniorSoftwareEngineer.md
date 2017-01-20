@@ -22,7 +22,7 @@ You are able to present technical concepts in a way that non-technical stakehold
 
 You recognise that a strong team is one which brings together the most diverse group of people. You create a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you're quick to challenge any behaviours which damage this.
 
-You actively take responsibility for issues rather than waiting waiting to be allocated to them.
+You actively take responsibility for issues rather than waiting to be allocated to them.
 
 You probe when asking for information, and listen carefully.
 
