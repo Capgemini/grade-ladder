@@ -25,19 +25,20 @@ node {
     workDir = file("${project.buildDir}/nodejs")
 }
 
+def gitbook_exec = 'node_modules/.bin/gitbook'
 
 task buildPdf(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
-    executable = 'gitbook'
+    executable = gitbook_exec
     args = ['pdf', './', "./output/capgemini_grade_ladder.pdf", "--verbose"]
 }
 
 task buildEpub(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
-    executable = 'gitbook'
+    executable = gitbook_exec
     args = ['epub', './', "./output/capgemini_grade_ladder.epub", "--verbose"]
 }
 
 task buildMobi(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
-    executable = 'gitbook'
+    executable = gitbook_exec
     args = ['mobi', './', "./output/capgemini_grade_ladder.mobi", "--verbose"]
 }
 
@@ -46,7 +47,7 @@ task buildAll(dependsOn: ['buildMobi', 'buildEpub', 'buildPdf']) {
 }
 
 task serveBook(type:Exec, dependsOn: ['generateBook', 'npmInstall']) {
-    executable = 'gitbook'
+    executable = gitbook_exec
     args = ['serve', './', "./output/http", '--verbose']
 }
 
