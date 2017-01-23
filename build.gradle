@@ -1,3 +1,6 @@
+import com.capgemini.javaengineering.gradeladder.BuildGitBook
+import com.capgemini.javaengineering.gradeladder.GenerateBook
+
 plugins {
     id "com.moowork.node" version "0.8"
 }
@@ -26,32 +29,27 @@ node {
 }
 
 
-task buildPdf(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
-    executable = 'gitbook'
-    args = ['pdf', './', "./output/capgemini_grade_ladder.pdf", "--verbose"]
+task generateBook(type: GenerateBook){
+    inputFile = project.file('input/expectations.csv')
+    outputDirectory = project.file('src')
 }
 
-task buildEpub(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
-    executable = 'gitbook'
-    args = ['epub', './', "./output/capgemini_grade_ladder.epub", "--verbose"]
+['pdf', 'epub', 'mobi'].each { bookType ->
+    tasks.create("build$bookType", BuildGitBook) { task ->
+        task.dependsOn tasks.generateBook
+        task.inputDirectory = tasks.generateBook.outputDirectory
+        task.type = bookType
+    }
 }
 
-task buildMobi(type: Exec, dependsOn: ['generateBook', 'npmInstall']) {
-    executable = 'gitbook'
-    args = ['mobi', './', "./output/capgemini_grade_ladder.mobi", "--verbose"]
-}
-
-task buildAll(dependsOn: ['buildMobi', 'buildEpub', 'buildPdf']) {
-    println 'Built PDF, Mobi and EPub!'
+task buildAll {
+    dependsOn tasks.withType(BuildGitBook)
+    doLast {
+        println 'Built PDF, Mobi and EPub!'
+    }
 }
 
 task serveBook(type:Exec, dependsOn: ['generateBook', 'npmInstall']) {
     executable = 'gitbook'
     args = ['serve', './', "./output/http", '--verbose']
-}
-
-task generateBook(type:Exec){
-    dependsOn gradle.includedBuild('gradeladder-generator').task(':build')
-    executable = 'java'
-    args = ['-jar', 'gradeladder-generator/build/libs/gradeladder-generator-1.0-SNAPSHOT.jar', './input/expectations.csv', './src']
 }
