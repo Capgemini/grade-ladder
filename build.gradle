@@ -36,7 +36,7 @@ task generateBook(type: GenerateBook){
 }
 
 ['pdf', 'epub', 'mobi'].each { bookType ->
-    tasks.create("build$bookType", BuildGitBook) { task ->
+    tasks.create("build${bookType.capitalize()}", BuildGitBook) { task ->
         task.dependsOn tasks.generateBook
         task.inputDirectory = tasks.generateBook.outputDirectory
         task.type = bookType
