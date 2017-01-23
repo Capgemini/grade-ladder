@@ -30,6 +30,7 @@ node {
 
 
 task generateBook(type: GenerateBook){
+    dependsOn gradle.includedBuild('gradeladder-generator').task(':build')
     inputFile = project.file('input/expectations.csv')
     outputDirectory = project.file('src')
 }
