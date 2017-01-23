@@ -28,8 +28,6 @@ node {
     workDir = file("${project.buildDir}/nodejs")
 }
 
-def gitbook_exec = 'node_modules/.bin/gitbook'
-
 task generateBook(type: GenerateBook){
     dependsOn gradle.includedBuild('gradeladder-generator').task(':build')
     inputFile = project.file('input/expectations.csv')
@@ -52,6 +50,6 @@ task buildAll {
 }
 
 task serveBook(type:Exec, dependsOn: ['generateBook', 'npmInstall']) {
-    executable = gitbook_exec
+    executable = 'node_modules/.bin/gitbook'
     args = ['serve', './', "./output/http", '--verbose']
 }
