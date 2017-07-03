@@ -1,5 +1,5 @@
 # Grade Ladder
-This grade-ladder both took inspiration from, and evolved out of [Camille Fournier](http://twitter.com/skalille)'s [Rent the Runway grade ladder] (http://dresscode.renttherunway.com/blog/ladder) (which in turn took its inspiration from the original Foursquare Engineering Ladder made by Harry Heymann, Jason Liszka and Andrew Hogue).
+This grade-ladder both took inspiration from, and evolved out of [Camille Fournier](http://twitter.com/skalille)'s [Rent the Runway grade ladder](http://dresscode.renttherunway.com/blog/ladder) (which in turn took its inspiration from the original Foursquare Engineering Ladder made by Harry Heymann, Jason Liszka and Andrew Hogue).
 
 For us in Capgemini UK, we had the following four User Stories which we wanted to address:
 
@@ -46,7 +46,7 @@ Generating a pdf, mobi and epub together or individually.
 
 ```
 
-The output of all these commands are found in the /output directory.
+The output of all these commands are found in the ```/output``` directory.
 More details on how to customize the gitbook format can be found [here]("https://toolchain.gitbook.com/"").
 
 
