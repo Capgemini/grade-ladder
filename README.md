@@ -15,7 +15,7 @@ The current released version of the ladders is v.1.0.0-beta.
 The next scheduled version of the ladders is v.1.0.0 (planned for January 2017)
 
 ### Setup
-Node, Java and [Calibre]("https://calibre-ebook.com/") are pre-requisites to run the gradle tasks below.
+Node, Java and [Calibre](https://calibre-ebook.com/) are pre-requisites to run the gradle tasks below.
 
 #### Mac
 Quickest way to get setup on the mac is with Brew
@@ -47,7 +47,7 @@ Generating a pdf, mobi and epub together or individually.
 ```
 
 The output of all these commands are found in the ```/output``` directory.
-More details on how to customize the gitbook format can be found [here]("https://toolchain.gitbook.com/").
+More details on how to customize the gitbook format can be found [here](https://toolchain.gitbook.com/).
 
 
 # Authors
