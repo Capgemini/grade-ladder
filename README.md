@@ -47,7 +47,7 @@ Generating a pdf, mobi and epub together or individually.
 ```
 
 The output of all these commands are found in the ```/output``` directory.
-More details on how to customize the gitbook format can be found [here]("https://toolchain.gitbook.com/"").
+More details on how to customize the gitbook format can be found [here]("https://toolchain.gitbook.com/").
 
 
 # Authors
