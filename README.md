@@ -50,11 +50,11 @@ The output of all these commands are found in the /output directory.
 More details on how to customize the gitbook format can be found [here]("https://toolchain.gitbook.com/"").
 
 
-#Authors
+# Authors
 * [Andrew Harmel-Law](https://github.com/andrewharmellaw)
 * [Tom Phethean](https://github.com/tsphethean)
 
-#Contributors (thanks!)
+# Contributors (thanks!)
 * [Malcolm Young](https://github.com/malcomio)
 * [Rob Horn](https://github.com/robhorn-capgemini)
 * [Clive Hackney](https://github.com/chackney)
@@ -62,3 +62,4 @@ More details on how to customize the gitbook format can be found [here]("https:/
 * Paul Barker
 * [James Gee](https://github.com/geeman201)
 * [Ant Broome](https://github.com/broomyocymru)
+* [Russ Hart](https://github.com/rhart)
