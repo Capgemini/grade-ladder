@@ -12,7 +12,7 @@ When documenting the grades our objectives were to:
 * allow it to evolve (we can change it)
 * be versioned (we know which one we're working against)
 * not be written specific to Capgemini (because many of the consumers will not know our internal jargon / processes)
-* be HR-friendly (so it aids everyone's career progression, rather then confusing it)
+* be HR-friendly (so it aids everyone's career progression, rather than confusing it)
 * be open and public (so everyone can see it and everyone can contribute to it)
 
 
