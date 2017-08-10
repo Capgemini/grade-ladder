@@ -18,7 +18,7 @@ class BuildGitBook extends Exec {
     String type
 
     BuildGitBook() {
-        this.executable = 'gitbook'
+        this.executable = 'node_modules/.bin/gitbook'
     }
 
     @TaskAction

@@ -24,7 +24,6 @@ brew update
 brew install node
 brew cask install java
 brew cask install calibre
-npm install -g gitbook-cli
 ```
 
 ### Usage
