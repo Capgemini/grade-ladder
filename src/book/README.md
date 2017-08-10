@@ -8,15 +8,14 @@ When documenting the grades our objectives were to:
 
 * be [actively inclusive](https://www.uk.capgemini.com/our-active-inclusion-strategy) (to ensure that we not only attract and recruit a diverse group of people, but also retain and develop those individuals once they are part of [our team](https://www.uk.capgemini.com/careers/meet-our-people))
 * be team-owned (it's ours!)
-* be generic (it won't be tied to technologies, so it is less likely to go out of date this way)
+* be generic (it won't be tied to technologies, so it's less likely to go out of date)
 * allow it to evolve (we can change it)
 * be versioned (we know which one we're working against)
 * not be written specific to Capgemini (because many of the consumers will not know our internal jargon / processes)
 * be HR-friendly (so it aids everyone's career progression, rather than confusing it)
 * be open and public (so everyone can see it and everyone can contribute to it)
 
-
-We have found the ladder has aided us in several ways. When hiring it's helped recruiters to understand what we expect from candidates. During interviews it assists us to see where someone would fit. When people join us the ladder provides a terms of reference for the expectations we have of you. Continuing through your career the ladder then assists forming the basis to understand how you can grow and demonstrate abilities to justify progression to more senior positions within the team.
+We've found the ladder has aided us in several ways. When hiring it's helped recruiters to understand what we expect from candidates. During interviews it assists us to see where someone would fit. When people join us the ladder provides a terms of reference for the expectations we have of you. Continuing through your career the ladder then assists forming the basis to understand how you can grow and demonstrate abilities to justify progression to more senior positions within the team.
 
 We've published it on our [GitHub](https://github.com/Capgemini/grade-ladder) and as a [GitBook](https://capgemini.gitbooks.io/grade-ladder/content/), where it's available to read online as a [PDF](https://www.gitbook.com/download/pdf/book/capgemini/grade-ladder), [Mobi](https://www.gitbook.com/download/mobi/book/capgemini/grade-ladder) or [EPub](https://www.gitbook.com/download/epub/book/capgemini/grade-ladder).
 
