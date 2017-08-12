@@ -1,6 +1,6 @@
-#Grade Ladder Generator
+# Grade Ladder Generator
 
-##About
+## About
 This generator is used to create MarkDown documents describing the Software Engineering Ladder.  Using a single source of data it creates documents to support 2 use cases:
 
 * _Checking for consistency_ - It creates a file called: SoftwareEngineeringFullLadder.md that lists out all expectations grouped by "trait" and then grade.
@@ -26,18 +26,18 @@ The source data is a csv file of the form:
 >Column 4: Sub Trait - Only applies to WIS trait, and must be set.
 
 
-##Build
+## Build
 Simply build using maven:
 
 %> mvn clean install
 
-##Run
+## Run
 %> mvn exec:java -Dexec.args="../input/expectations.csv ../"
 
-#Authors
+# Authors
 * [Rob Horn](https://github.com/robhorn-capgemini)
 
-#Contributors (thanks!)
+# Contributors (thanks!)
 * [Andrew Harmel-Law](https://github.com/andrewharmellaw)
 * [Ant Broome](https://github.com/broomyocymru)
 
