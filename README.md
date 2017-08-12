@@ -10,9 +10,9 @@ For us in Capgemini UK, we had the following four User Stories which we wanted t
 
 We acknowledge that, while we tried to make them as future-proof as possible, these documents will change over time.  That's why we're putting them on github.
 
-The [current released version](https://capgemini.gitbooks.io/grade-ladder/content/) of the ladder is v.1.0.0-beta.
+The [current released version](https://capgemini.gitbooks.io/grade-ladder/content/) of the ladder is v.1.0.0.
 
-The next scheduled version of the ladder is v.1.0.0 (planned for January 2017)
+The next scheduled version of the ladder is v.1.1.0 (which it is intended will include grades A9 and A10).
 
 ### Setup
 Node, Java and [Calibre](https://calibre-ebook.com/) are pre-requisites to run the gradle tasks below.
