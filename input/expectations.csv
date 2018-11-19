@@ -27,7 +27,7 @@
 "You select additional personal tools which help you get your tasks done efficiently.",1|2,WIS,Technical Assessment and Adoption
 "You understand the business-relevance of your feature, and use the applicable business-terminology when talking about it.",1|2,WIS,Business Awareness
 "You contribute to existing industrialisation efforts which make your day-to-day life easier.",1|2,WIS,Helping Your Colleagues
-"You are developing a deep expertise in a core language and / or technology, and gaining awareness of others.",3|4|5,DEX,
+"You are developing a deep expertise in a core language and / or technology and gaining awareness of others.",3|4|5,DEX,
 "You understand and make well-reasoned design decisions and trade-offs in your solution area.",3|4|5,DEX,
 "You arrive at the required implementation given periodic input from peers. You mentor and code review those developers less experienced than you. You also provide recommendations on approaches to take.",3|4|5,DEX,
 "You are comfortable producing small software components when supplied with a complete design.",3,DEX,
@@ -41,7 +41,7 @@
 "You are able to work effectively in areas outside your core competency with guidance i.e as a Tester, a BA, a Platform Engineer, etc.",4,DEX,
 "You are the go-to person in your area(s) of the solution.",5,DEX,
 "You are able to work effectively in areas outside your core areas with infrequent guidance.",5,DEX,
-"You are able to help others in their debugging / problem solving, or debug complex problems on your own.",5,DEX,
+"You are able to help others in their debugging / problem solving or debug complex problems on your own.",5,DEX,
 "You are able, with guidance, to non-functionally test and optimise your area of the solution.",5,DEX,
 "You are influencing (or making when smaller scale) important project technical decisions.",5,DEX,
 "You are capable of prioritising tasks: you focus on business value and technical risk-reduction, and you consciously avoid getting caught up in gold-plating. You seek guidance from others and collaboratively solve problems.",3|4|5,T,
@@ -51,7 +51,7 @@
 "You enjoy working in diverse and inclusive teams, recognising that they generate the most innovative solutions and ideas. This belief manifests itself in your desire to participate in a genuinely inclusive team environment where everyone feels welcome, heard and valued, no matter what their background. You act as a role model in actively encouraging everyone to value difference, and you're quick to challenge any behaviours which damage this.",3|4|5,T,
 "You can persuade others in straightforward situations, having taken on board other people's perspectives, towards a positive outcome.",5,T,
 "You are fully competent in your own area of expertise.",5,T,
-"You manage your own time to meet agreed targets, and can develop plans for specific pieces of work.",5,T,
+"You manage your own time to meet agreed targets and can develop plans for specific pieces of work.",5,T,
 "You are capable of estimating to complete a well-scoped task and have a good knowledge of the architecture and existing code and technologies.",3|4|5,STR,
 "You can communicate these estimates to other - non-technical - stakeholders.",3|4|5,STR,
 "You can install and configure a new personal development environment for yourself and others.",3|4|5,STR,
