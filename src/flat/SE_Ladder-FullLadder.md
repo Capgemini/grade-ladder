@@ -51,7 +51,7 @@ You have a methodical and reasoned approach to debugging and problem solving.
 You are able to work effectively in areas outside your core competency with guidance i.e as a Tester, a BA, a Platform Engineer, etc.
 
 ### _Software Engineer - Grade 5_
-You are developing a deep expertise in a core language and / or technology, and gaining awareness of others.
+You are developing a deep expertise in a core language and / or technology and gaining awareness of others.
 
 You understand and make well-reasoned design decisions and trade-offs in your solution area.
 
