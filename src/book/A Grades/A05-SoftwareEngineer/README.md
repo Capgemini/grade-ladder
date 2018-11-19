@@ -1,7 +1,7 @@
 # Software Engineering Ladder
 ### _Software Engineer - Grade 5_
 ## Technical Skills (Dex)
-You are developing a deep expertise in a core language and / or technology, and gaining awareness of others.
+You are developing a deep expertise in a core language and / or technology and gaining awareness of others.
 
 You understand and make well-reasoned design decisions and trade-offs in your solution area.
 
