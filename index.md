@@ -32,8 +32,6 @@ When documenting the grades, our objectives were to:
 
 We've found the ladder has aided us in several ways. When hiring it's helped recruiters to understand what we expect from candidates. During interviews it assists us to see where someone would fit. When people join us the ladder provides a terms of reference for the expectations we have of you. Continuing through your career the ladder then assists forming the basis to understand how you can grow and demonstrate abilities to justify progression to more senior positions within the team.
 
-We've published it on our [GitHub Pages](https://capgemini.github.io/grade-ladder/).
-
 If what you read here sounds like the kind of place you'd like to work, then you can check out our latest opportunities on [our Careers site](https://www.uk.capgemini.com/careers).
 
 We're still working on definitions for our grades 9 and above, and will continue to evolve our existing definitions. We encourage everyone to provide feedback.
