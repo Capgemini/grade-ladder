@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Grade Ladder
-permalink: /about/
+permalink: /
 ---
 
 Grades:
