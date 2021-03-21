@@ -1,0 +1,58 @@
+{% include icons.svg %}
+<div class="notepad-site-head-menu">
+
+  {% if page.url != "/" %}<a href="/" class="logo-link">{% endif %}
+  <span class="notepad-blog-logo">
+    <img src="{{ site.baseurl }}/images/logo.svg?v=2" alt="Capgemini"
+         width="207" height="46" id="site-logo">
+    <!--[if lte IE 8]>
+    <img src="{{ site.baseurl }}/images/logo.png?v=2" alt="Capgemini"
+         width="207" height="46" id="site-logo">
+    <![endif]-->
+  </span>
+  {% if page.url != "/" %}</a>{% endif %}
+
+  <div class="notepad-blog-menu">
+    <div class="notepad-mobile-menu">
+      <a href="#" class="notepad-mobile-menu-toggle">
+        <svg class="icon">
+          <use xlink:href="#bars"></use>
+        </svg>
+        <span class="element-invisible">Show menu</span></a>
+    </div>
+    <ul class="notepad-menu">
+      <li class="notepad-mobile-close-btn notepad-mobile-menu-toggle text-right">
+        <a href="#">
+          <svg class="icon">
+            <use xlink:href="#times"></use>
+          </svg>
+          <span class="element-invisible">Hide menu</span></a>
+      </li>
+      {% for link in site.links %}
+      <li class="menu__item">{% if link.external %}
+        <a class="menu__link" href="{{ link.url }}">{{ link.title }}</a>
+        {% else %}
+        <a class="menu__link" href="{{ site.baseurl }}{{ link.url }}">{{
+          link.title }}</a>
+        {% endif %}
+      </li>
+      {% endfor %}
+      <li><a href="{{ site.baseurl }}/feed.xml" title="Atom/RSS feed"><i
+        class="icon-rss"></i> Feed</a></li>
+
+      <li>
+        <form action="https://www.google.com/search" method="get" class="search-form" id="form-search">
+          <label for="input-search">Search</label>
+          <input type="text" id="input-search" name="q" class="search-text"
+                 placeholder="Search" value=" site:capgemini.github.io"/>
+          <button type="submit" value="Search" class="search-submit">
+            <svg class="icon">
+              <use xlink:href="#search"></use>
+            </svg>
+            <span>Search</span>
+          </button>
+        </form>
+      </li>
+    </ul>
+  </div>
+</div>

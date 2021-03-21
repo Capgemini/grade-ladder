@@ -1,0 +1,12 @@
+{% if site.google_analytics %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-54431406-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '{{ site.google_analytics }}');
+</script>
+{% endif %}
+    <script src="{{ site.baseurl }}/assets/js/engblog.min.js?v={{ site.time | date: "%s" }}"></script>

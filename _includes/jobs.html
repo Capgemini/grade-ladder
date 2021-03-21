@@ -1,0 +1,52 @@
+{% comment %}
+  Load the job details up from the site config.
+{% endcomment %}
+{% assign jobs = site.data.jobs %}
+{% assign jobshow = '' %}
+
+{% if authors.size == 1 %} 
+  {% assign author = authors[0] %}
+{% endif %}
+
+{% comment %}
+  Try to match the author's team with a job
+{% endcomment %}
+{% for job in jobs %}
+  {% if job[0] == author.team || job[1].categories contains author.team %}
+    {% assign jobteam = author.team %}
+    {% assign jobshow = job[1] %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+  If the author has no team with a job, fall back to the default job
+{% endcomment %}
+{% if jobshow == '' %}
+  {% assign jobshow = jobs.default %}
+{% endif %}
+
+{% comment %}
+  If the author's team has no job link URL.
+{% endcomment %}
+{% if jobshow.link | size > 1 %}
+  {% assign joblink = jobshow.link %}
+{% else %}
+  {% assign joblink = jobs.default.link %}
+{% endif %}
+
+{% if jobshow.description %}
+  {% assign jobdescription = jobshow.description %}
+{% else %}
+  {% assign jobdescription = jobs[default].description %}
+{% endif %}
+<div class="row">
+  <div class="columns">
+    <div class="job-listing">
+      <h2 class="large-text-right">
+        <a href="{{ joblink }}" title="{{ jobshow.title }}">{{ jobshow.title }}</a>
+      </h2>
+      <p class="large-text-right">{{ jobdescription }}</p>
+      <a href="{{ joblink }}" class="button" target="_blank">Find out more<span class="element-invisible"> about working with Capgemini</span></a>
+    </div>
+  </div>
+</div>
