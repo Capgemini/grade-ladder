@@ -11,8 +11,8 @@ permalink: /
 * [A4 - Software Engineer]({{ site.baseurl }}/grades/A4)
 * [A5 - Software Engineer]({{ site.baseurl }}/grades/A5)
 * [A6 - Senior Software Engineer]({{ site.baseurl }}/grades/A6)
-* [A7 - Senior Software Enginee]({{ site.baseurl }}/grades/A7)
-* [A8 - Lead Software Enginee]({{ site.baseurl }}/grades/A8)
+* [A7 - Senior Software Engineer]({{ site.baseurl }}/grades/A7)
+* [A8 - Lead Software Engineer]({{ site.baseurl }}/grades/A8)
 
 ## About
 This grade ladder was inspired by a blog post from [Camille Fournier](https://twitter.com/skamille)'s [renttherunway.com](http://dresscode.renttherunway.com/blog/ladder) in which they shared their grade ladder. (They having in turn taken their  inspiration from the original [Foursquare engineering](http://engineering.foursquare.com/) grade ladder made by [Harry Heymann](https://twitter.com/harryh), [Jason Liszka](https://twitter.com/jliszka) and [Andrew Hogue](https://twitter.com/ahogue)).
@@ -21,7 +21,7 @@ We are sharing our latest evolution, licensed under the [creative commons Attrib
 
 When documenting the grades, our objectives were to:
 
-* be [actively inclusive](https://www.uk.capgemini.com/our-active-inclusion-strategy) (to ensure that we not only attract and recruit a diverse group of people, but also retain and develop those individuals once they are part of [our team](https://www.uk.capgemini.com/careers/meet-our-people))
+* be [actively inclusive](https://www.capgemini.com/gb-en/our-active-inclusion-strategy/) (to ensure that we not only attract and recruit a diverse group of people, but also retain and develop those individuals once they are part of [our team](https://www.capgemini.com/gb-en/careers/meet-our-people/))
 * be team-owned (it's ours!)
 * be generic (it won't be tied to technologies, so it's less likely to go out of date)
 * allow it to evolve (we can change it)
@@ -32,6 +32,6 @@ When documenting the grades, our objectives were to:
 
 We've found the ladder has aided us in several ways. When hiring it's helped recruiters to understand what we expect from candidates. During interviews it assists us to see where someone would fit. When people join us the ladder provides a terms of reference for the expectations we have of you. Continuing through your career the ladder then assists forming the basis to understand how you can grow and demonstrate abilities to justify progression to more senior positions within the team.
 
-If what you read here sounds like the kind of place you'd like to work, then you can check out our latest opportunities on [our Careers site](https://www.uk.capgemini.com/careers).
+If what you read here sounds like the kind of place you'd like to work, then you can check out our latest opportunities on [our Careers site](https://www.capgemini.com/gb-en/careers/).
 
 We're still working on definitions for our grades 9 and above, and will continue to evolve our existing definitions. We encourage everyone to provide feedback.
