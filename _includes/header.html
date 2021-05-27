@@ -1,7 +1,7 @@
 {% include icons.svg %}
 <div class="notepad-site-head-menu">
 
-  {% if page.url != "/" %}<a href="/" class="logo-link">{% endif %}
+  {% if page.url != "/" %}<a href="{{ site.baseurl }}" class="logo-link">{% endif %}
   <span class="notepad-blog-logo">
     <img src="{{ site.baseurl }}/images/logo.svg?v=2" alt="Capgemini"
          width="207" height="46" id="site-logo">

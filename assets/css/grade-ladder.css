@@ -1,0 +1,49 @@
+@media only screen and (max-width: 905px) {
+  .menu__item .grade-link {
+    font-size: .75em;
+  }
+}
+
+@media only screen and (min-width: 905px) {
+  .notepad-menu {
+    overflow: visible;
+  }
+
+  .notepad-menu .menu__item {
+    display: block;
+    float: left;
+    padding: 1rem;
+    position: relative;
+    text-decoration: none;
+    transition-duration: 0.5s;
+  }
+
+  .menu__item .grade-list {
+    visibility: hidden;
+    opacity: 0;
+    min-width: 5rem;
+    position: absolute;
+    transition: all 0.5s ease;
+    margin-top: 1rem;
+    right: 0;
+    top: 3rem;
+    width: 20rem;
+    display: none;
+    background: white;
+    box-shadow: 3px 5px 5px rgba(0, 0, 0, .4);
+  }
+
+  .menu__item:hover .grade-list,
+  .menu__item:focus-within .grade-list,
+  .menu__item .grade-list:hover,
+  .menu__item .grade-list:focus {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+  }
+
+  .grade-link {
+    clear: both;
+    width: 100%;
+  }
+}

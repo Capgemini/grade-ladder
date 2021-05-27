@@ -1,7 +1,7 @@
 <ul class="grade-list">
   {% for grade in site.grades %}
-  <li>
-    <a href="{{ site.baseurl }}{{ grade.permalink }}">
+  <li class="grade-list-item">
+    <a href="{{ site.baseurl }}{{ grade.permalink }}" class="grade-link">
       {{ grade.title }}
     </a>
   </li>
