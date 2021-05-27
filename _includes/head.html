@@ -16,7 +16,7 @@
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} &vert; {% endif %}{{ site.title }}</title>
 <meta name="description" content="{{ description }}">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self' capgemini.github.io disqus.com *.disqus.com *.disquscdn.com *.doubleclick.net *.google-analytics.com *.googletagmanager.com ; script-src 'self' 'unsafe-inline' disqus.com *.disqus.com *.disquscdn.com requirejs.org *.google-analytics.com *.googletagmanager.com ajax.googleapis.com; style-src 'self' capgemini.github.io 'unsafe-inline' *.disquscdn.com fonts.googleapis.com; img-src 'self' * data: ; media-src 'self' ; frame-src disqus.com *.github.io *.slides.com *.slideshare.net *.youtube.com *.vimeo.com; font-src 'self' fonts.googleapis.com fonts.gstatic.com data: ; " />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' capgemini.github.io disqus.com *.disqus.com *.disquscdn.com *.doubleclick.net *.google-analytics.com *.googletagmanager.com ; script-src 'self' 'unsafe-inline' capgemini.github.io disqus.com *.disqus.com *.disquscdn.com requirejs.org *.google-analytics.com *.googletagmanager.com ajax.googleapis.com; style-src 'self' capgemini.github.io 'unsafe-inline' *.disquscdn.com fonts.googleapis.com; img-src 'self' * data: ; media-src 'self' ; frame-src disqus.com *.github.io *.slides.com *.slideshare.net *.youtube.com *.vimeo.com; font-src 'self' fonts.googleapis.com fonts.gstatic.com data: ; " />
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
 {% if page.layout == 'post' %}
