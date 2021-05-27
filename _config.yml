@@ -38,10 +38,12 @@ collections:
     output: true
 
 links:
-  - title: Home
+  - title: Blog
+    url: https://capgemini.github.io
+    external: true
+  - title: About
     url: /
     external: false
-    icon: home
 
 # Exclude from processing.
 # The following items will not be processed, by default.
