@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "gitbook-cli": "2.3.0"
-  }
+    "gitbook-cli": "2.3.0",
+    "snyk": "^1.189.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
