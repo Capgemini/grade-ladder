@@ -1,5 +1,5 @@
 # Grade Ladder
-This grade-ladder took both inspiration from, and evolved out of [Camille Fournier](http://twitter.com/skalille)'s [Rent the Runway Grade Ladder](http://dresscode.renttherunway.com/blog/ladder). (Which in turn took it's inspiration from the original Foursquare Engineering Ladder made by Harry Heymann, Jason Liszka and Andrew Hogue).
+This grade-ladder took both inspiration from, and evolved out of [Camille Fournier](http://twitter.com/skalille)'s [Rent the Runway Grade Ladder](http://dresscode.renttherunway.com/blog/ladder). (Which in turn took its inspiration from the original Foursquare Engineering Ladder made by Harry Heymann, Jason Liszka and Andrew Hogue).
 
 For us in Capgemini UK, we had the following four User Stories which we wanted to address:
 
@@ -8,56 +8,23 @@ For us in Capgemini UK, we had the following four User Stories which we wanted t
 * Onboarding – I’ve just started at Capgemini, what is expected of me?
 * Promotion – I want to get promoted. How do I get to the next grade?
 
-We acknowledge that, while we tried to make them as future-proof as possible, these documents will change over time.  That's why we're putting them on github.
+We acknowledge that, while we tried to make them as future-proof as possible, these documents will change over time.  That's why we're putting them on GitHub.
 
-The [current released version](https://capgemini.gitbooks.io/grade-ladder/content/) of the ladder is v.1.0.0.
-
-The next scheduled version of the ladder is v.1.1.0 (which it is intended will include grades A9 and A10).
-
-### Setup
-Node, Java and [Calibre](https://calibre-ebook.com/) are pre-requisites to run the gradle tasks below.
-
-#### Mac
-Quickest way to get setup on the mac is with Brew
-```shell
-brew update
-brew install node
-brew cask install java
-brew cask install calibre
-```
-
-### Usage
-Serving gitbook locally @ 127.0.0.1:4000
-```shell
-./gradlew serveBook
-```
-
-Generating a pdf, mobi and epub together or individually.
-```shell
-./gradlew buildAll
-
-./gradlew buildPdf
-
-./gradlew buildMobi
-
-./gradlew buildEpub
-
-
-```
-
-The output of all these commands are found in the ```/output``` directory.
-More details on how to customize the gitbook format can be found [here](https://toolchain.gitbook.com/).
+## GitHub pages
+The grade ladder is available at https://capgemini.github.io/grade-ladder using the `gh-pages` branch using [GitHub pages](https://docs.github.com/en/pages)
 
 # Authors
 * [Andrew Harmel-Law](https://github.com/andrewharmellaw)
 * [Tom Phethean](https://github.com/tsphethean)
 
 # Contributors (thanks!)
-* [Malcolm Young](https://github.com/malcomio)
-* [Rob Horn](https://github.com/robhorn-capgemini)
-* [Clive Hackney](https://github.com/chackney)
-* [Kevin Rudland](https://github.com/krudland1978)
-* Paul Barker
-* [James Gee](https://github.com/geeman201)
 * [Ant Broome](https://github.com/broomyocymru)
+* [Clive Hackney](https://github.com/chackney)
+* [James Gee](https://github.com/geeman201)
+* [Kevin Rudland](https://github.com/krudland1978)
+* [Malcolm Young](https://github.com/malcomio)
+* Paul Barker
+* [Paul Monk](https://github.com/nighk)
+* [Rob Horn](https://github.com/robhorn-capgemini)
 * [Russ Hart](https://github.com/rhart)
+* [Sarah Saunders](https://github.com/sasaunde)
