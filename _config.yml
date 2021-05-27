@@ -36,10 +36,9 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
 #  google_plus:
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+collections:
+  grades:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

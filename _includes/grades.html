@@ -1,0 +1,9 @@
+<ul class="grade-list">
+  {% for grade in site.grades %}
+  <li>
+    <a href="{{ site.baseurl }}{{ grade.permalink }}">
+      {{ grade.title }}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
