@@ -28,6 +28,7 @@
           </svg>
           <span class="element-invisible">Hide menu</span></a>
       </li>
+
       {% for link in site.links %}
       <li class="menu__item">{% if link.external %}
         <a class="menu__link" href="{{ link.url }}">{{ link.title }}</a>
@@ -37,8 +38,6 @@
         {% endif %}
       </li>
       {% endfor %}
-      <li><a href="{{ site.baseurl }}/feed.xml" title="Atom/RSS feed"><i
-        class="icon-rss"></i> Feed</a></li>
 
       <li>
         <form action="https://www.google.com/search" method="get" class="search-form" id="form-search">
