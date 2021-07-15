@@ -7,7 +7,6 @@ permalink: /
 ## Grades
 {% include grades.html %}
 
-
 ## About
 This grade ladder was inspired by a blog post from [Camille Fournier](https://twitter.com/skamille)'s [renttherunway.com](http://dresscode.renttherunway.com/blog/ladder) in which they shared their grade ladder. (They having in turn taken their  inspiration from the original [Foursquare engineering](http://engineering.foursquare.com/) grade ladder made by [Harry Heymann](https://twitter.com/harryh), [Jason Liszka](https://twitter.com/jliszka) and [Andrew Hogue](https://twitter.com/ahogue)).
 
