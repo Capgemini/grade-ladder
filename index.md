@@ -27,4 +27,4 @@ We've found the ladder has aided us in several ways. When hiring it's helped rec
 
 If what you read here sounds like the kind of place you'd like to work, then you can check out our latest opportunities on [our Careers site](https://www.capgemini.com/gb-en/careers/).
 
-We're still working on definitions for our grades 9 and above, and will continue to evolve our existing definitions. We encourage everyone to provide feedback.
+We're still working on this, and will continue to evolve our existing definitions. We encourage everyone to provide feedback.
