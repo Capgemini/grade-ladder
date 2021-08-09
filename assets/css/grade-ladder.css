@@ -47,3 +47,13 @@
     width: 100%;
   }
 }
+
+.notepad-page-title {
+  padding-bottom: 4.375rem;
+  margin-bottom: 1.5rem;
+}
+
+.notepad-page-title h1 {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
